@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "pack_format": 5,
+    "description": "Blanktopia's custom resource pack v1.16.0"
+  },
+  "meta": {
+    "game_version": "1.16"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/wheat"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "blanktopia/paint_brush"
+    }
+  ]
+}

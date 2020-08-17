@@ -1,0 +1,20 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/cookie"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "food/cotton_candy_pink"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "food/cotton_candy_blue"
+    }
+  ]
+}
