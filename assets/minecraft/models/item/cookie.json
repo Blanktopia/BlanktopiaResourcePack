@@ -15,6 +15,24 @@
         "custom_model_data": 2
       },
       "model": "food/cotton_candy_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "food/sunny_side_up"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "food/cheese"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "food/apple_pie"
     }
   ]
 }
