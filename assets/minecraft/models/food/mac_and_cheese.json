@@ -1,0 +1,7 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "food/mac_and_cheese",
+    "particle": "food/mac_and_cheese"
+  }
+}

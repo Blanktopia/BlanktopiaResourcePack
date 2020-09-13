@@ -10,6 +10,12 @@
         "custom_model_data": 1
       },
       "model": "food/apple_cider"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "food/vinegar"
     }
   ]
 }

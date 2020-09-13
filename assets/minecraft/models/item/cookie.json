@@ -33,6 +33,12 @@
         "custom_model_data": 5
       },
       "model": "food/apple_pie"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "food/noodles"
     }
   ]
 }

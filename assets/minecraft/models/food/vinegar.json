@@ -1,0 +1,8 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "food/vinegar",
+    "layer1": "food/vinegar",
+    "particle": "food/vinegar"
+  }
+}

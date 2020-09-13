@@ -1,0 +1,32 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/mushroom_stew"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "food/pasta"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "food/squid_ink_pasta"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "food/chicken_noodle_soup"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "food/mac_and_cheese"
+    }
+  ]
+}

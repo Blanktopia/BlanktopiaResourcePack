@@ -1,0 +1,7 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "food/squid_ink_pasta",
+    "particle": "food/squid_ink_pasta"
+  }
+}
