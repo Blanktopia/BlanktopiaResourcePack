@@ -1,7 +1,0 @@
-{
-  "parent": "item/handheld",
-  "textures": {
-    "layer0": "food/apple_pie",
-    "particle": "food/apple_pie"
-  }
-}

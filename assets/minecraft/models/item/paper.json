@@ -1,5 +1,5 @@
 {
-  "parent": "item/handheld",
+  "parent": "item/generated",
   "textures": {
     "layer0": "item/paper"
   },
@@ -8,19 +8,25 @@
       "predicate": {
         "custom_model_data": 1
       },
-      "model": "blanktopia/exp_coupon"
+      "model": "blanktopia:rares/exp_coupon"
     },
     {
       "predicate": {
         "custom_model_data": 2
       },
-      "model": "blanktopia/health_coupon"
+      "model": "blanktopia:rares/health_coupon"
     },
     {
       "predicate": {
         "custom_model_data": 3
       },
-      "model": "blanktopia/food_coupon"
+      "model": "blanktopia:rares/food_coupon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "blanktopia:rares/key_coupon"
     }
   ]
 }

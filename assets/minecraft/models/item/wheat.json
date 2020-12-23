@@ -1,14 +1,14 @@
 {
-  "parent": "item/handheld",
+  "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "item/wheat"
+    "layer0": "minecraft:item/wheat"
   },
   "overrides": [
     {
       "predicate": {
         "custom_model_data": 1
       },
-      "model": "blanktopia/paint_brush"
+      "model": "blanktopia:rares/paint_brush"
     }
   ]
 }

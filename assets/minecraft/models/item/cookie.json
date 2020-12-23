@@ -1,44 +1,50 @@
 {
-  "parent": "item/handheld",
+  "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "item/cookie"
+    "layer0": "minecraft:item/cookie"
   },
   "overrides": [
     {
       "predicate": {
         "custom_model_data": 1
       },
-      "model": "food/cotton_candy_pink"
+      "model": "blanktopia:food/cotton_candy_pink"
     },
     {
       "predicate": {
         "custom_model_data": 2
       },
-      "model": "food/cotton_candy_blue"
+      "model": "blanktopia:food/cotton_candy_blue"
     },
     {
       "predicate": {
         "custom_model_data": 3
       },
-      "model": "food/sunny_side_up"
+      "model": "blanktopia:food/sunny_side_up"
     },
     {
       "predicate": {
         "custom_model_data": 4
       },
-      "model": "food/cheese"
+      "model": "blanktopia:food/cheese"
     },
     {
       "predicate": {
         "custom_model_data": 5
       },
-      "model": "food/apple_pie"
+      "model": "blanktopia:food/apple_pie"
     },
     {
       "predicate": {
         "custom_model_data": 6
       },
-      "model": "food/noodles"
+      "model": "blanktopia:food/noodles"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "blanktopia:food/oreo"
     }
   ]
 }

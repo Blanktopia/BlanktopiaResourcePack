@@ -1,5 +1,5 @@
 {
-  "parent": "item/handheld",
+  "parent": "item/generated",
   "textures": {
     "layer0": "item/mushroom_stew"
   },
@@ -8,25 +8,25 @@
       "predicate": {
         "custom_model_data": 1
       },
-      "model": "food/pasta"
+      "model": "blanktopia:food/pasta"
     },
     {
       "predicate": {
         "custom_model_data": 2
       },
-      "model": "food/squid_ink_pasta"
+      "model": "blanktopia:food/squid_ink_pasta"
     },
     {
       "predicate": {
         "custom_model_data": 3
       },
-      "model": "food/chicken_noodle_soup"
+      "model": "blanktopia:food/chicken_noodle_soup"
     },
     {
       "predicate": {
         "custom_model_data": 4
       },
-      "model": "food/mac_and_cheese"
+      "model": "blanktopia:food/mac_and_cheese"
     }
   ]
 }

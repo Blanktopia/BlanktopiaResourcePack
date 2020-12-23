@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "blanktopia/paint_brush"
+    "layer0": "blanktopia:rares/exp_coupon"
   }
 }

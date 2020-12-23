@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "blanktopia/health_coupon"
+    "layer0": "blanktopia:rares/wrench"
   }
 }

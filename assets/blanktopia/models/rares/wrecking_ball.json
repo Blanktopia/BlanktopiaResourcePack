@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "blanktopia/wrecking_ball"
+    "layer0": "blanktopia:rares/wrecking_ball"
   }
 }

@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "blanktopia/lumos"
+    "layer0": "blanktopia:rares/food_coupon"
   }
 }

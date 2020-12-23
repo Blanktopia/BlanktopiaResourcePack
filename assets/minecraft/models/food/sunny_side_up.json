@@ -1,7 +1,0 @@
-{
-  "parent": "item/handheld",
-  "textures": {
-    "layer0": "food/sunny_side_up",
-    "particle": "food/sunny_side_up"
-  }
-}

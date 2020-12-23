@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "blanktopia/key"
+    "layer0": "blanktopia:rares/paint_brush"
   }
 }
