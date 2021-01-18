@@ -1,6 +1,1 @@
-{
-  "parent": "item/handheld",
-  "textures": {
-    "layer0": "blanktopia:rares/health_coupon"
-  }
-}
+{"parent":"item/handheld","textures":{"layer0":"blanktopia:rares/health_coupon"}}

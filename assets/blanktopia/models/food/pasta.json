@@ -1,7 +1,1 @@
-{
-  "parent": "item/handheld",
-  "textures": {
-    "layer0": "blanktopia:food/pasta",
-    "particle": "blanktopia:food/pasta"
-  }
-}
+{"parent":"item/handheld","textures":{"layer0":"blanktopia:food/pasta","particle":"blanktopia:food/pasta"}}

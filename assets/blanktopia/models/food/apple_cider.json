@@ -1,8 +1,1 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "blanktopia:food/apple_cider",
-    "layer1": "blanktopia:food/apple_cider",
-    "particle": "blanktopia:food/apple_cider"
-  }
-}
+{"parent":"item/generated","textures":{"layer0":"blanktopia:food/apple_cider","layer1":"blanktopia:food/apple_cider","particle":"blanktopia:food/apple_cider"}}

@@ -1,14 +1,1 @@
-{
-  "parent": "item/handheld",
-  "textures": {
-    "layer0": "item/blaze_rod"
-  },
-  "overrides": [
-    {
-      "predicate": {
-        "custom_model_data": 1
-      },
-      "model": "blanktopia:rares/builders_wand"
-    }
-  ]
-}
+{"parent":"item/handheld","textures":{"layer0":"item/blaze_rod"},"overrides":[{"predicate":{"custom_model_data":1},"model":"blanktopia:rares/builders_wand"}]}

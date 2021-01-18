@@ -1,8 +1,1 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "blanktopia:food/vinegar",
-    "layer1": "blanktopia:food/vinegar",
-    "particle": "blanktopia:food/vinegar"
-  }
-}
+{"parent":"item/generated","textures":{"layer0":"blanktopia:food/vinegar","layer1":"blanktopia:food/vinegar","particle":"blanktopia:food/vinegar"}}

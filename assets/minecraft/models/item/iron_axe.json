@@ -1,14 +1,1 @@
-{
-  "parent": "item/handheld",
-  "textures": {
-    "layer0": "item/iron_axe"
-  },
-  "overrides": [
-    {
-      "predicate": {
-        "custom_model_data": 1
-      },
-      "model": "blanktopia:rares/lumberjack"
-    }
-  ]
-}
+{"parent":"item/handheld","textures":{"layer0":"item/iron_axe"},"overrides":[{"predicate":{"custom_model_data":1},"model":"blanktopia:rares/lumberjack"}]}

@@ -1,7 +1,1 @@
-{
-    "block.minecraft.petrified_oak_slab": "Dirt Slab",
-    "connect.joining": "Joining Blanktopia...",
-    "menu.game": "\ud7f0",
-    "menu.returnToGame": "Return to Blanktopia",
-    "mount.onboard": "Press %1$s to Exit"
-}
+{"block.minecraft.petrified_oak_slab":"Dirt Slab","connect.joining":"Joining Blanktopia...","menu.game":"ퟰ","menu.returnToGame":"Return to Blanktopia","mount.onboard":"Press %1$s to Exit"}

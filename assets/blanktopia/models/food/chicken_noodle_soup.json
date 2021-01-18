@@ -1,7 +1,1 @@
-{
-  "parent": "item/handheld",
-  "textures": {
-    "layer0": "blanktopia:food/chicken_noodle_soup",
-    "particle": "blanktopia:food/chicken_noodle_soup"
-  }
-}
+{"parent":"item/handheld","textures":{"layer0":"blanktopia:food/chicken_noodle_soup","particle":"blanktopia:food/chicken_noodle_soup"}}
