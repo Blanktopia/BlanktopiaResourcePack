@@ -1,1 +1,38 @@
-{"parent":"item/handheld_rod","textures":{"layer0":"item/leather_horse_armor"},"overrides":[{"predicate":{"custom_model_data":1000},"model":"blanktopia:furniture/spruce_chair"},{"predicate":{"custom_model_data":1001},"model":"blanktopia:furniture/spruce_stool"}]}
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "item/leather_horse_armor"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1000
+            },
+            "model": "blanktopia:furniture/spruce_chair"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1010
+            },
+            "model": "blanktopia:furniture/spruce_stool"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1020
+            },
+            "model": "blanktopia:furniture/spruce_desk"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1030
+            },
+            "model": "blanktopia:furniture/spruce_garden_table"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1040
+            },
+            "model": "blanktopia:furniture/beach_chair"
+        }
+    ]
+}
