@@ -1,38 +1,248 @@
 {
-    "parent": "item/handheld_rod",
-    "textures": {
-        "layer0": "item/leather_horse_armor"
-    },
-    "overrides": [
-        {
-            "predicate": {
-                "custom_model_data": 1000
-            },
-            "model": "blanktopia:furniture/spruce_chair"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1010
-            },
-            "model": "blanktopia:furniture/spruce_stool"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1020
-            },
-            "model": "blanktopia:furniture/spruce_desk"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1030
-            },
-            "model": "blanktopia:furniture/spruce_garden_table"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1040
-            },
-            "model": "blanktopia:furniture/beach_chair"
-        }
-    ]
+   "overrides": [
+      {
+         "model": "blanktopia:furniture/oak_chair",
+         "predicate": {
+            "custom_model_data": 1000
+         }
+      },
+      {
+         "model": "blanktopia:furniture/spruce_chair",
+         "predicate": {
+            "custom_model_data": 1001
+         }
+      },
+      {
+         "model": "blanktopia:furniture/birch_chair",
+         "predicate": {
+            "custom_model_data": 1002
+         }
+      },
+      {
+         "model": "blanktopia:furniture/jungle_chair",
+         "predicate": {
+            "custom_model_data": 1003
+         }
+      },
+      {
+         "model": "blanktopia:furniture/acacia_chair",
+         "predicate": {
+            "custom_model_data": 1004
+         }
+      },
+      {
+         "model": "blanktopia:furniture/dark_oak_chair",
+         "predicate": {
+            "custom_model_data": 1005
+         }
+      },
+      {
+         "model": "blanktopia:furniture/crimson_chair",
+         "predicate": {
+            "custom_model_data": 1006
+         }
+      },
+      {
+         "model": "blanktopia:furniture/warped_chair",
+         "predicate": {
+            "custom_model_data": 1007
+         }
+      },
+      {
+         "model": "blanktopia:furniture/oak_stool",
+         "predicate": {
+            "custom_model_data": 1010
+         }
+      },
+      {
+         "model": "blanktopia:furniture/spruce_stool",
+         "predicate": {
+            "custom_model_data": 1011
+         }
+      },
+      {
+         "model": "blanktopia:furniture/birch_stool",
+         "predicate": {
+            "custom_model_data": 1012
+         }
+      },
+      {
+         "model": "blanktopia:furniture/jungle_stool",
+         "predicate": {
+            "custom_model_data": 1013
+         }
+      },
+      {
+         "model": "blanktopia:furniture/acacia_stool",
+         "predicate": {
+            "custom_model_data": 1014
+         }
+      },
+      {
+         "model": "blanktopia:furniture/dark_oak_stool",
+         "predicate": {
+            "custom_model_data": 1015
+         }
+      },
+      {
+         "model": "blanktopia:furniture/crimson_stool",
+         "predicate": {
+            "custom_model_data": 1016
+         }
+      },
+      {
+         "model": "blanktopia:furniture/warped_stool",
+         "predicate": {
+            "custom_model_data": 1017
+         }
+      },
+      {
+         "model": "blanktopia:furniture/oak_desk",
+         "predicate": {
+            "custom_model_data": 1020
+         }
+      },
+      {
+         "model": "blanktopia:furniture/spruce_desk",
+         "predicate": {
+            "custom_model_data": 1021
+         }
+      },
+      {
+         "model": "blanktopia:furniture/birch_desk",
+         "predicate": {
+            "custom_model_data": 1022
+         }
+      },
+      {
+         "model": "blanktopia:furniture/jungle_desk",
+         "predicate": {
+            "custom_model_data": 1023
+         }
+      },
+      {
+         "model": "blanktopia:furniture/acacia_desk",
+         "predicate": {
+            "custom_model_data": 1024
+         }
+      },
+      {
+         "model": "blanktopia:furniture/dark_oak_desk",
+         "predicate": {
+            "custom_model_data": 1025
+         }
+      },
+      {
+         "model": "blanktopia:furniture/crimson_desk",
+         "predicate": {
+            "custom_model_data": 1026
+         }
+      },
+      {
+         "model": "blanktopia:furniture/warped_desk",
+         "predicate": {
+            "custom_model_data": 1027
+         }
+      },
+      {
+         "model": "blanktopia:furniture/oak_garden_table",
+         "predicate": {
+            "custom_model_data": 1030
+         }
+      },
+      {
+         "model": "blanktopia:furniture/spruce_garden_table",
+         "predicate": {
+            "custom_model_data": 1031
+         }
+      },
+      {
+         "model": "blanktopia:furniture/birch_garden_table",
+         "predicate": {
+            "custom_model_data": 1032
+         }
+      },
+      {
+         "model": "blanktopia:furniture/jungle_garden_table",
+         "predicate": {
+            "custom_model_data": 1033
+         }
+      },
+      {
+         "model": "blanktopia:furniture/acacia_garden_table",
+         "predicate": {
+            "custom_model_data": 1034
+         }
+      },
+      {
+         "model": "blanktopia:furniture/dark_oak_garden_table",
+         "predicate": {
+            "custom_model_data": 1035
+         }
+      },
+      {
+         "model": "blanktopia:furniture/crimson_garden_table",
+         "predicate": {
+            "custom_model_data": 1036
+         }
+      },
+      {
+         "model": "blanktopia:furniture/warped_garden_table",
+         "predicate": {
+            "custom_model_data": 1037
+         }
+      },
+      {
+         "model": "blanktopia:furniture/oak_beach_chair",
+         "predicate": {
+            "custom_model_data": 1040
+         }
+      },
+      {
+         "model": "blanktopia:furniture/spruce_beach_chair",
+         "predicate": {
+            "custom_model_data": 1041
+         }
+      },
+      {
+         "model": "blanktopia:furniture/birch_beach_chair",
+         "predicate": {
+            "custom_model_data": 1042
+         }
+      },
+      {
+         "model": "blanktopia:furniture/jungle_beach_chair",
+         "predicate": {
+            "custom_model_data": 1043
+         }
+      },
+      {
+         "model": "blanktopia:furniture/acacia_beach_chair",
+         "predicate": {
+            "custom_model_data": 1044
+         }
+      },
+      {
+         "model": "blanktopia:furniture/dark_oak_beach_chair",
+         "predicate": {
+            "custom_model_data": 1045
+         }
+      },
+      {
+         "model": "blanktopia:furniture/crimson_beach_chair",
+         "predicate": {
+            "custom_model_data": 1046
+         }
+      },
+      {
+         "model": "blanktopia:furniture/warped_beach_chair",
+         "predicate": {
+            "custom_model_data": 1047
+         }
+      }
+   ],
+   "parent": "item/handheld_rod",
+   "textures": {
+      "layer0": "item/leather_horse_armor"
+   }
 }
