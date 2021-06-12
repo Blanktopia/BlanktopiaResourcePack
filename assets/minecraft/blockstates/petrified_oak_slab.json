@@ -1,1 +1,28 @@
-{"variants":{"type=bottom":[{"model":"block/petrified_oak_slab"},{"model":"block/petrified_oak_slab2"}],"type=top":[{"model":"block/petrified_oak_slab_top"},{"model":"block/petrified_oak_slab_top2"}],"type=double":[{"model":"block/dirt"},{"model":"block/coarse_dirt"}]}}
+{
+  "variants": {
+    "type=bottom": [
+      {
+        "model": "block/petrified_oak_slab"
+      },
+      {
+        "model": "block/petrified_oak_slab2"
+      }
+    ],
+    "type=top": [
+      {
+        "model": "block/petrified_oak_slab_top"
+      },
+      {
+        "model": "block/petrified_oak_slab_top2"
+      }
+    ],
+    "type=double": [
+      {
+        "model": "block/dirt"
+      },
+      {
+        "model": "block/coarse_dirt"
+      }
+    ]
+  }
+}

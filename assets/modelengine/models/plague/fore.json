@@ -1,1 +1,138 @@
-{"file_name":"fore","texture_size":[32,32],"textures":{"119ba6e8-65e3-8a36-5a03-bee6edf1470b":"modelengine:entity/plague"},"elements":[{"name":"cube","from":[6.2,8,7.4],"to":[8,13.400001,8.6],"rotation":{"angle":0,"axis":"x","origin":[7.1,10.700001,8]},"faces":{"down":{"uv":[10,8,8.5,9],"rotation":0,"texture":"#119ba6e8-65e3-8a36-5a03-bee6edf1470b","tintindex":0},"east":{"uv":[2.5,4.5,3.5,9],"rotation":0,"texture":"#119ba6e8-65e3-8a36-5a03-bee6edf1470b","tintindex":0},"north":{"uv":[3,0,4.5,4.5],"rotation":0,"texture":"#119ba6e8-65e3-8a36-5a03-bee6edf1470b","tintindex":0},"south":{"uv":[0,4.5,1.5,9],"rotation":0,"texture":"#119ba6e8-65e3-8a36-5a03-bee6edf1470b","tintindex":0},"up":{"uv":[10,8,8.5,7],"rotation":0,"texture":"#119ba6e8-65e3-8a36-5a03-bee6edf1470b","tintindex":0},"west":{"uv":[3.5,4.5,4.5,9],"rotation":0,"texture":"#119ba6e8-65e3-8a36-5a03-bee6edf1470b","tintindex":0}}}],"display":{"head":{"translation":[0,-6.4,0],"rotation":[0,0,0],"scale":[3.8095,3.8095,3.8095]},"gui":{"translation":[0,0,0],"rotation":[35,225,0],"scale":[0.625,0.625,0.625]}}}
+{
+  "file_name": "fore",
+  "texture_size": [
+    32,
+    32
+  ],
+  "textures": {
+    "119ba6e8-65e3-8a36-5a03-bee6edf1470b": "modelengine:entity/plague"
+  },
+  "elements": [
+    {
+      "name": "cube",
+      "from": [
+        6.2,
+        8,
+        7.4
+      ],
+      "to": [
+        8,
+        13.400001,
+        8.6
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "x",
+        "origin": [
+          7.1,
+          10.700001,
+          8
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            10,
+            8,
+            8.5,
+            9
+          ],
+          "rotation": 0,
+          "texture": "#119ba6e8-65e3-8a36-5a03-bee6edf1470b",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            2.5,
+            4.5,
+            3.5,
+            9
+          ],
+          "rotation": 0,
+          "texture": "#119ba6e8-65e3-8a36-5a03-bee6edf1470b",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            3,
+            0,
+            4.5,
+            4.5
+          ],
+          "rotation": 0,
+          "texture": "#119ba6e8-65e3-8a36-5a03-bee6edf1470b",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            4.5,
+            1.5,
+            9
+          ],
+          "rotation": 0,
+          "texture": "#119ba6e8-65e3-8a36-5a03-bee6edf1470b",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            10,
+            8,
+            8.5,
+            7
+          ],
+          "rotation": 0,
+          "texture": "#119ba6e8-65e3-8a36-5a03-bee6edf1470b",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            3.5,
+            4.5,
+            4.5,
+            9
+          ],
+          "rotation": 0,
+          "texture": "#119ba6e8-65e3-8a36-5a03-bee6edf1470b",
+          "tintindex": 0
+        }
+      }
+    }
+  ],
+  "display": {
+    "head": {
+      "translation": [
+        0,
+        -6.4,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        3.8095,
+        3.8095,
+        3.8095
+      ]
+    },
+    "gui": {
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        35,
+        225,
+        0
+      ],
+      "scale": [
+        0.625,
+        0.625,
+        0.625
+      ]
+    }
+  }
+}

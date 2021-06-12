@@ -1,1 +1,11 @@
-{"parent":"minecraft:block/melon","overrides":[{"predicate":{"custom_model_data":1},"model":"blanktopia:hats/wotamelon"}]}
+{
+  "parent": "minecraft:block/melon",
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "blanktopia:hats/wotamelon"
+    }
+  ]
+}

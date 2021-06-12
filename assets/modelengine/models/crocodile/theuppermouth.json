@@ -1,1 +1,138 @@
-{"file_name":"theuppermouth","texture_size":[64,64],"textures":{"5b207868-5645-b898-8b42-e1687b302a02":"modelengine:entity/crocodile"},"elements":[{"name":"upper_mouth","from":[6.95,9.2,-3.505],"to":[9.05,10.4,-1.2550001],"rotation":{"angle":0,"axis":"x","origin":[8,9.2,-0.50500035]},"faces":{"down":{"uv":[2.25,6.75,1.5,7.5],"rotation":0,"texture":"#5b207868-5645-b898-8b42-e1687b302a02","tintindex":0},"east":{"uv":[0,7.5,0.75,8],"rotation":0,"texture":"#5b207868-5645-b898-8b42-e1687b302a02","tintindex":0},"north":{"uv":[0.75,7.5,1.5,8],"rotation":0,"texture":"#5b207868-5645-b898-8b42-e1687b302a02","tintindex":0},"south":{"uv":[2.25,7.5,3,8],"rotation":0,"texture":"#5b207868-5645-b898-8b42-e1687b302a02","tintindex":0},"up":{"uv":[1.5,7.5,0.75,6.75],"rotation":0,"texture":"#5b207868-5645-b898-8b42-e1687b302a02","tintindex":0},"west":{"uv":[1.5,7.5,2.25,8],"rotation":0,"texture":"#5b207868-5645-b898-8b42-e1687b302a02","tintindex":0}}}],"display":{"head":{"translation":[0,-6.4,0],"rotation":[0,0,0],"scale":[3.8095,3.8095,3.8095]},"gui":{"translation":[0,0,0],"rotation":[35,225,0],"scale":[0.625,0.625,0.625]}}}
+{
+  "file_name": "theuppermouth",
+  "texture_size": [
+    64,
+    64
+  ],
+  "textures": {
+    "5b207868-5645-b898-8b42-e1687b302a02": "modelengine:entity/crocodile"
+  },
+  "elements": [
+    {
+      "name": "upper_mouth",
+      "from": [
+        6.95,
+        9.2,
+        -3.505
+      ],
+      "to": [
+        9.05,
+        10.4,
+        -1.2550001
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "x",
+        "origin": [
+          8,
+          9.2,
+          -0.50500035
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            2.25,
+            6.75,
+            1.5,
+            7.5
+          ],
+          "rotation": 0,
+          "texture": "#5b207868-5645-b898-8b42-e1687b302a02",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            7.5,
+            0.75,
+            8
+          ],
+          "rotation": 0,
+          "texture": "#5b207868-5645-b898-8b42-e1687b302a02",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            0.75,
+            7.5,
+            1.5,
+            8
+          ],
+          "rotation": 0,
+          "texture": "#5b207868-5645-b898-8b42-e1687b302a02",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            2.25,
+            7.5,
+            3,
+            8
+          ],
+          "rotation": 0,
+          "texture": "#5b207868-5645-b898-8b42-e1687b302a02",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            1.5,
+            7.5,
+            0.75,
+            6.75
+          ],
+          "rotation": 0,
+          "texture": "#5b207868-5645-b898-8b42-e1687b302a02",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            1.5,
+            7.5,
+            2.25,
+            8
+          ],
+          "rotation": 0,
+          "texture": "#5b207868-5645-b898-8b42-e1687b302a02",
+          "tintindex": 0
+        }
+      }
+    }
+  ],
+  "display": {
+    "head": {
+      "translation": [
+        0,
+        -6.4,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        3.8095,
+        3.8095,
+        3.8095
+      ]
+    },
+    "gui": {
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        35,
+        225,
+        0
+      ],
+      "scale": [
+        0.625,
+        0.625,
+        0.625
+      ]
+    }
+  }
+}

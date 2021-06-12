@@ -1,1 +1,498 @@
-{"file_name":"hat_bottom","texture_size":[64,64],"textures":{"71f742e9-27c5-157e-c71c-4cd718cb3329":"modelengine:entity/redaliveshroom"},"elements":[{"name":"hat_bottom","from":[7.7,8.75,4.5499997],"to":[14.900001,9.950001,11.75],"rotation":{"angle":22.5,"axis":"x","origin":[10.700001,8.75,4.5499997]},"faces":{"down":{"uv":[9,0,6,3],"rotation":0,"texture":"#71f742e9-27c5-157e-c71c-4cd718cb3329","tintindex":0},"east":{"uv":[0,3,3,3.5],"rotation":0,"texture":"#71f742e9-27c5-157e-c71c-4cd718cb3329","tintindex":0},"north":{"uv":[3,3,6,3.5],"rotation":0,"texture":"#71f742e9-27c5-157e-c71c-4cd718cb3329","tintindex":0},"south":{"uv":[9,3,12,3.5],"rotation":0,"texture":"#71f742e9-27c5-157e-c71c-4cd718cb3329","tintindex":0},"up":{"uv":[6,3,3,0],"rotation":0,"texture":"#71f742e9-27c5-157e-c71c-4cd718cb3329","tintindex":0},"west":{"uv":[6,3,9,3.5],"rotation":0,"texture":"#71f742e9-27c5-157e-c71c-4cd718cb3329","tintindex":0}}},{"name":"hat_corner1","from":[8.303925,8.946855,4.4830585],"to":[14.303925,9.846855,5.0830584],"rotation":{"angle":22.5,"axis":"x","origin":[11.3,9.35,4.5499997]},"faces":{"down":{"uv":[14.25,1,11.75,1.25],"rotation":0,"texture":"#71f742e9-27c5-157e-c71c-4cd718cb3329","tintindex":0},"east":{"uv":[9,1.25,9.25,1.5],"rotation":0,"texture":"#71f742e9-27c5-157e-c71c-4cd718cb3329","tintindex":0},"north":{"uv":[9.25,1.25,11.75,1.5],"rotation":0,"texture":"#71f742e9-27c5-157e-c71c-4cd718cb3329","tintindex":0},"south":{"uv":[12,1.25,14.5,1.5],"rotation":0,"texture":"#71f742e9-27c5-157e-c71c-4cd718cb3329","tintindex":0},"up":{"uv":[11.75,1.25,9.25,1],"rotation":0,"texture":"#71f742e9-27c5-157e-c71c-4cd718cb3329","tintindex":0},"west":{"uv":[11.75,1.25,12,1.5],"rotation":0,"texture":"#71f742e9-27c5-157e-c71c-4cd718cb3329","tintindex":0}}},{"name":"hat_corner2","from":[8.301968,6.0215845,11.051061],"to":[14.301969,6.921584,11.651061],"rotation":{"angle":22.5,"axis":"x","origin":[11.3,6.35,11.6]},"faces":{"down":{"uv":[13.25,5.5,10.75,5.75],"rotation":0,"texture":"#71f742e9-27c5-157e-c71c-4cd718cb3329","tintindex":0},"east":{"uv":[8,5.75,8.25,6],"rotation":0,"texture":"#71f742e9-27c5-157e-c71c-4cd718cb3329","tintindex":0},"north":{"uv":[8.25,5.75,10.75,6],"rotation":0,"texture":"#71f742e9-27c5-157e-c71c-4cd718cb3329","tintindex":0},"south":{"uv":[11,5.75,13.5,6],"rotation":0,"texture":"#71f742e9-27c5-157e-c71c-4cd718cb3329","tintindex":0},"up":{"uv":[10.75,5.75,8.25,5.5],"rotation":0,"texture":"#71f742e9-27c5-157e-c71c-4cd718cb3329","tintindex":0},"west":{"uv":[10.75,5.75,11,6],"rotation":0,"texture":"#71f742e9-27c5-157e-c71c-4cd718cb3329","tintindex":0}}},{"name":"hat_corner4","from":[7.4,8.645,5.3],"to":[8,9.545,11.3],"rotation":{"angle":22.5,"axis":"x","origin":[11.45,9.35,5.3]},"faces":{"down":{"uv":[12,0,11.75,2.5],"rotation":0,"texture":"#71f742e9-27c5-157e-c71c-4cd718cb3329","tintindex":0},"east":{"uv":[9,2.5,11.5,2.75],"rotation":0,"texture":"#71f742e9-27c5-157e-c71c-4cd718cb3329","tintindex":0},"north":{"uv":[11.5,2.5,11.75,2.75],"rotation":0,"texture":"#71f742e9-27c5-157e-c71c-4cd718cb3329","tintindex":0},"south":{"uv":[14.25,2.5,14.5,2.75],"rotation":0,"texture":"#71f742e9-27c5-157e-c71c-4cd718cb3329","tintindex":0},"up":{"uv":[11.75,2.5,11.5,0],"rotation":0,"texture":"#71f742e9-27c5-157e-c71c-4cd718cb3329","tintindex":0},"west":{"uv":[11.75,2.5,14.25,2.75],"rotation":0,"texture":"#71f742e9-27c5-157e-c71c-4cd718cb3329","tintindex":0}}},{"name":"hat_corner5","from":[14.6,8.645,5.3],"to":[15.2,9.545,11.3],"rotation":{"angle":22.5,"axis":"x","origin":[15.950001,9.35,5.3]},"faces":{"down":{"uv":[12,0,11.75,2.5],"rotation":0,"texture":"#71f742e9-27c5-157e-c71c-4cd718cb3329","tintindex":0},"east":{"uv":[9,2.5,11.5,2.75],"rotation":0,"texture":"#71f742e9-27c5-157e-c71c-4cd718cb3329","tintindex":0},"north":{"uv":[11.5,2.5,11.75,2.75],"rotation":0,"texture":"#71f742e9-27c5-157e-c71c-4cd718cb3329","tintindex":0},"south":{"uv":[14.25,2.5,14.5,2.75],"rotation":0,"texture":"#71f742e9-27c5-157e-c71c-4cd718cb3329","tintindex":0},"up":{"uv":[11.75,2.5,11.5,0],"rotation":0,"texture":"#71f742e9-27c5-157e-c71c-4cd718cb3329","tintindex":0},"west":{"uv":[11.75,2.5,14.25,2.75],"rotation":0,"texture":"#71f742e9-27c5-157e-c71c-4cd718cb3329","tintindex":0}}}],"display":{"head":{"translation":[0,-6.4,0],"rotation":[0,0,0],"scale":[3.8095,3.8095,3.8095]},"gui":{"translation":[0,0,0],"rotation":[35,225,0],"scale":[0.625,0.625,0.625]}}}
+{
+  "file_name": "hat_bottom",
+  "texture_size": [
+    64,
+    64
+  ],
+  "textures": {
+    "71f742e9-27c5-157e-c71c-4cd718cb3329": "modelengine:entity/redaliveshroom"
+  },
+  "elements": [
+    {
+      "name": "hat_bottom",
+      "from": [
+        7.7,
+        8.75,
+        4.5499997
+      ],
+      "to": [
+        14.900001,
+        9.950001,
+        11.75
+      ],
+      "rotation": {
+        "angle": 22.5,
+        "axis": "x",
+        "origin": [
+          10.700001,
+          8.75,
+          4.5499997
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            9,
+            0,
+            6,
+            3
+          ],
+          "rotation": 0,
+          "texture": "#71f742e9-27c5-157e-c71c-4cd718cb3329",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            3,
+            3,
+            3.5
+          ],
+          "rotation": 0,
+          "texture": "#71f742e9-27c5-157e-c71c-4cd718cb3329",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            3,
+            3,
+            6,
+            3.5
+          ],
+          "rotation": 0,
+          "texture": "#71f742e9-27c5-157e-c71c-4cd718cb3329",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            9,
+            3,
+            12,
+            3.5
+          ],
+          "rotation": 0,
+          "texture": "#71f742e9-27c5-157e-c71c-4cd718cb3329",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            6,
+            3,
+            3,
+            0
+          ],
+          "rotation": 0,
+          "texture": "#71f742e9-27c5-157e-c71c-4cd718cb3329",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            6,
+            3,
+            9,
+            3.5
+          ],
+          "rotation": 0,
+          "texture": "#71f742e9-27c5-157e-c71c-4cd718cb3329",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "hat_corner1",
+      "from": [
+        8.303925,
+        8.946855,
+        4.4830585
+      ],
+      "to": [
+        14.303925,
+        9.846855,
+        5.0830584
+      ],
+      "rotation": {
+        "angle": 22.5,
+        "axis": "x",
+        "origin": [
+          11.3,
+          9.35,
+          4.5499997
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            14.25,
+            1,
+            11.75,
+            1.25
+          ],
+          "rotation": 0,
+          "texture": "#71f742e9-27c5-157e-c71c-4cd718cb3329",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            9,
+            1.25,
+            9.25,
+            1.5
+          ],
+          "rotation": 0,
+          "texture": "#71f742e9-27c5-157e-c71c-4cd718cb3329",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            9.25,
+            1.25,
+            11.75,
+            1.5
+          ],
+          "rotation": 0,
+          "texture": "#71f742e9-27c5-157e-c71c-4cd718cb3329",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            12,
+            1.25,
+            14.5,
+            1.5
+          ],
+          "rotation": 0,
+          "texture": "#71f742e9-27c5-157e-c71c-4cd718cb3329",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            11.75,
+            1.25,
+            9.25,
+            1
+          ],
+          "rotation": 0,
+          "texture": "#71f742e9-27c5-157e-c71c-4cd718cb3329",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            11.75,
+            1.25,
+            12,
+            1.5
+          ],
+          "rotation": 0,
+          "texture": "#71f742e9-27c5-157e-c71c-4cd718cb3329",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "hat_corner2",
+      "from": [
+        8.301968,
+        6.0215845,
+        11.051061
+      ],
+      "to": [
+        14.301969,
+        6.921584,
+        11.651061
+      ],
+      "rotation": {
+        "angle": 22.5,
+        "axis": "x",
+        "origin": [
+          11.3,
+          6.35,
+          11.6
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            13.25,
+            5.5,
+            10.75,
+            5.75
+          ],
+          "rotation": 0,
+          "texture": "#71f742e9-27c5-157e-c71c-4cd718cb3329",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            8,
+            5.75,
+            8.25,
+            6
+          ],
+          "rotation": 0,
+          "texture": "#71f742e9-27c5-157e-c71c-4cd718cb3329",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            8.25,
+            5.75,
+            10.75,
+            6
+          ],
+          "rotation": 0,
+          "texture": "#71f742e9-27c5-157e-c71c-4cd718cb3329",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            11,
+            5.75,
+            13.5,
+            6
+          ],
+          "rotation": 0,
+          "texture": "#71f742e9-27c5-157e-c71c-4cd718cb3329",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            10.75,
+            5.75,
+            8.25,
+            5.5
+          ],
+          "rotation": 0,
+          "texture": "#71f742e9-27c5-157e-c71c-4cd718cb3329",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            10.75,
+            5.75,
+            11,
+            6
+          ],
+          "rotation": 0,
+          "texture": "#71f742e9-27c5-157e-c71c-4cd718cb3329",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "hat_corner4",
+      "from": [
+        7.4,
+        8.645,
+        5.3
+      ],
+      "to": [
+        8,
+        9.545,
+        11.3
+      ],
+      "rotation": {
+        "angle": 22.5,
+        "axis": "x",
+        "origin": [
+          11.45,
+          9.35,
+          5.3
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            12,
+            0,
+            11.75,
+            2.5
+          ],
+          "rotation": 0,
+          "texture": "#71f742e9-27c5-157e-c71c-4cd718cb3329",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            9,
+            2.5,
+            11.5,
+            2.75
+          ],
+          "rotation": 0,
+          "texture": "#71f742e9-27c5-157e-c71c-4cd718cb3329",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            11.5,
+            2.5,
+            11.75,
+            2.75
+          ],
+          "rotation": 0,
+          "texture": "#71f742e9-27c5-157e-c71c-4cd718cb3329",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            14.25,
+            2.5,
+            14.5,
+            2.75
+          ],
+          "rotation": 0,
+          "texture": "#71f742e9-27c5-157e-c71c-4cd718cb3329",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            11.75,
+            2.5,
+            11.5,
+            0
+          ],
+          "rotation": 0,
+          "texture": "#71f742e9-27c5-157e-c71c-4cd718cb3329",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            11.75,
+            2.5,
+            14.25,
+            2.75
+          ],
+          "rotation": 0,
+          "texture": "#71f742e9-27c5-157e-c71c-4cd718cb3329",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "hat_corner5",
+      "from": [
+        14.6,
+        8.645,
+        5.3
+      ],
+      "to": [
+        15.2,
+        9.545,
+        11.3
+      ],
+      "rotation": {
+        "angle": 22.5,
+        "axis": "x",
+        "origin": [
+          15.950001,
+          9.35,
+          5.3
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            12,
+            0,
+            11.75,
+            2.5
+          ],
+          "rotation": 0,
+          "texture": "#71f742e9-27c5-157e-c71c-4cd718cb3329",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            9,
+            2.5,
+            11.5,
+            2.75
+          ],
+          "rotation": 0,
+          "texture": "#71f742e9-27c5-157e-c71c-4cd718cb3329",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            11.5,
+            2.5,
+            11.75,
+            2.75
+          ],
+          "rotation": 0,
+          "texture": "#71f742e9-27c5-157e-c71c-4cd718cb3329",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            14.25,
+            2.5,
+            14.5,
+            2.75
+          ],
+          "rotation": 0,
+          "texture": "#71f742e9-27c5-157e-c71c-4cd718cb3329",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            11.75,
+            2.5,
+            11.5,
+            0
+          ],
+          "rotation": 0,
+          "texture": "#71f742e9-27c5-157e-c71c-4cd718cb3329",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            11.75,
+            2.5,
+            14.25,
+            2.75
+          ],
+          "rotation": 0,
+          "texture": "#71f742e9-27c5-157e-c71c-4cd718cb3329",
+          "tintindex": 0
+        }
+      }
+    }
+  ],
+  "display": {
+    "head": {
+      "translation": [
+        0,
+        -6.4,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        3.8095,
+        3.8095,
+        3.8095
+      ]
+    },
+    "gui": {
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        35,
+        225,
+        0
+      ],
+      "scale": [
+        0.625,
+        0.625,
+        0.625
+      ]
+    }
+  }
+}

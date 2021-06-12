@@ -1,1 +1,228 @@
-{"file_name":"theeyes","texture_size":[64,64],"textures":{"53eced06-c6a7-0e2b-0cfd-3cbe91761196":"modelengine:entity/brownaliveshroom"},"elements":[{"name":"right_eye","from":[9.65,8,8],"to":[10.4,8.75,8.6],"rotation":{"angle":0,"axis":"x","origin":[9.8,8,8]},"faces":{"down":{"uv":[2.75,0.5,2.5,0.75],"rotation":0,"texture":"#53eced06-c6a7-0e2b-0cfd-3cbe91761196","tintindex":0},"east":{"uv":[2,0.75,2.25,1],"rotation":0,"texture":"#53eced06-c6a7-0e2b-0cfd-3cbe91761196","tintindex":0},"north":{"uv":[2.25,0.75,2.5,1],"rotation":0,"texture":"#53eced06-c6a7-0e2b-0cfd-3cbe91761196","tintindex":0},"south":{"uv":[2.75,0.75,3,1],"rotation":0,"texture":"#53eced06-c6a7-0e2b-0cfd-3cbe91761196","tintindex":0},"up":{"uv":[2.5,0.75,2.25,0.5],"rotation":0,"texture":"#53eced06-c6a7-0e2b-0cfd-3cbe91761196","tintindex":0},"west":{"uv":[2.5,0.75,2.75,1],"rotation":0,"texture":"#53eced06-c6a7-0e2b-0cfd-3cbe91761196","tintindex":0}}},{"name":"left_eye","from":[7.85,8,8],"to":[8.6,8.75,8.6],"rotation":{"angle":0,"axis":"x","origin":[8,8,8]},"faces":{"down":{"uv":[2.25,0,2,0.25],"rotation":0,"texture":"#53eced06-c6a7-0e2b-0cfd-3cbe91761196","tintindex":0},"east":{"uv":[1.5,0.25,1.75,0.5],"rotation":0,"texture":"#53eced06-c6a7-0e2b-0cfd-3cbe91761196","tintindex":0},"north":{"uv":[1.75,0.25,2,0.5],"rotation":0,"texture":"#53eced06-c6a7-0e2b-0cfd-3cbe91761196","tintindex":0},"south":{"uv":[2.25,0.25,2.5,0.5],"rotation":0,"texture":"#53eced06-c6a7-0e2b-0cfd-3cbe91761196","tintindex":0},"up":{"uv":[2,0.25,1.75,0],"rotation":0,"texture":"#53eced06-c6a7-0e2b-0cfd-3cbe91761196","tintindex":0},"west":{"uv":[2,0.25,2.25,0.5],"rotation":0,"texture":"#53eced06-c6a7-0e2b-0cfd-3cbe91761196","tintindex":0}}}],"display":{"head":{"translation":[0,-6.4,0],"rotation":[0,0,0],"scale":[3.8095,3.8095,3.8095]},"gui":{"translation":[0,0,0],"rotation":[35,225,0],"scale":[0.625,0.625,0.625]}}}
+{
+  "file_name": "theeyes",
+  "texture_size": [
+    64,
+    64
+  ],
+  "textures": {
+    "53eced06-c6a7-0e2b-0cfd-3cbe91761196": "modelengine:entity/brownaliveshroom"
+  },
+  "elements": [
+    {
+      "name": "right_eye",
+      "from": [
+        9.65,
+        8,
+        8
+      ],
+      "to": [
+        10.4,
+        8.75,
+        8.6
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "x",
+        "origin": [
+          9.8,
+          8,
+          8
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            2.75,
+            0.5,
+            2.5,
+            0.75
+          ],
+          "rotation": 0,
+          "texture": "#53eced06-c6a7-0e2b-0cfd-3cbe91761196",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            2,
+            0.75,
+            2.25,
+            1
+          ],
+          "rotation": 0,
+          "texture": "#53eced06-c6a7-0e2b-0cfd-3cbe91761196",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            2.25,
+            0.75,
+            2.5,
+            1
+          ],
+          "rotation": 0,
+          "texture": "#53eced06-c6a7-0e2b-0cfd-3cbe91761196",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            2.75,
+            0.75,
+            3,
+            1
+          ],
+          "rotation": 0,
+          "texture": "#53eced06-c6a7-0e2b-0cfd-3cbe91761196",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            2.5,
+            0.75,
+            2.25,
+            0.5
+          ],
+          "rotation": 0,
+          "texture": "#53eced06-c6a7-0e2b-0cfd-3cbe91761196",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            2.5,
+            0.75,
+            2.75,
+            1
+          ],
+          "rotation": 0,
+          "texture": "#53eced06-c6a7-0e2b-0cfd-3cbe91761196",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "left_eye",
+      "from": [
+        7.85,
+        8,
+        8
+      ],
+      "to": [
+        8.6,
+        8.75,
+        8.6
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "x",
+        "origin": [
+          8,
+          8,
+          8
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            2.25,
+            0,
+            2,
+            0.25
+          ],
+          "rotation": 0,
+          "texture": "#53eced06-c6a7-0e2b-0cfd-3cbe91761196",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            1.5,
+            0.25,
+            1.75,
+            0.5
+          ],
+          "rotation": 0,
+          "texture": "#53eced06-c6a7-0e2b-0cfd-3cbe91761196",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            1.75,
+            0.25,
+            2,
+            0.5
+          ],
+          "rotation": 0,
+          "texture": "#53eced06-c6a7-0e2b-0cfd-3cbe91761196",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            2.25,
+            0.25,
+            2.5,
+            0.5
+          ],
+          "rotation": 0,
+          "texture": "#53eced06-c6a7-0e2b-0cfd-3cbe91761196",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            2,
+            0.25,
+            1.75,
+            0
+          ],
+          "rotation": 0,
+          "texture": "#53eced06-c6a7-0e2b-0cfd-3cbe91761196",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            2,
+            0.25,
+            2.25,
+            0.5
+          ],
+          "rotation": 0,
+          "texture": "#53eced06-c6a7-0e2b-0cfd-3cbe91761196",
+          "tintindex": 0
+        }
+      }
+    }
+  ],
+  "display": {
+    "head": {
+      "translation": [
+        0,
+        -6.4,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        3.8095,
+        3.8095,
+        3.8095
+      ]
+    },
+    "gui": {
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        35,
+        225,
+        0
+      ],
+      "scale": [
+        0.625,
+        0.625,
+        0.625
+      ]
+    }
+  }
+}

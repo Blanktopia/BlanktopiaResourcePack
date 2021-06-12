@@ -1,1 +1,21 @@
-{"parent":"item/generated","textures":{"layer0":"item/potion_overlay","layer1":"item/potion"},"overrides":[{"predicate":{"custom_model_data":1},"model":"blanktopia:food/apple_cider"},{"predicate":{"custom_model_data":2},"model":"blanktopia:food/vinegar"}]}
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/potion_overlay",
+    "layer1": "item/potion"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "blanktopia:food/apple_cider"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "blanktopia:food/vinegar"
+    }
+  ]
+}

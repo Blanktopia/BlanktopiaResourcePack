@@ -1,1 +1,13 @@
-{"providers":[{"type":"bitmap","file":"minecraft:font/blanktopia.png","ascent":8,"height":20,"chars":["ퟰ"]}]}
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/blanktopia.png",
+      "ascent": 8,
+      "height": 20,
+      "chars": [
+        "ퟰ"
+      ]
+    }
+  ]
+}

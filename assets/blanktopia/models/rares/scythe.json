@@ -1,1 +1,6 @@
-{"parent":"item/handheld","textures":{"layer0":"blanktopia:rares/scythe"}}
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "blanktopia:rares/scythe"
+  }
+}

@@ -1,1 +1,6 @@
-{"parent":"item/handheld","textures":{"layer0":"blanktopia:rares/key_coupon"}}
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "blanktopia:rares/key_coupon"
+  }
+}

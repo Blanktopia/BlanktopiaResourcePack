@@ -1,1 +1,228 @@
-{"file_name":"thetail1","texture_size":[64,64],"textures":{"5b207868-5645-b898-8b42-e1687b302a02":"modelengine:entity/crocodile"},"elements":[{"name":"tail","from":[8,8,4.3999996],"to":[12.2,9.8,8],"rotation":{"angle":0,"axis":"x","origin":[8,8,4.3999996]},"faces":{"down":{"uv":[13,5,11.25,6.5],"rotation":0,"texture":"#5b207868-5645-b898-8b42-e1687b302a02","tintindex":0},"east":{"uv":[8,6.5,9.5,7.25],"rotation":0,"texture":"#5b207868-5645-b898-8b42-e1687b302a02","tintindex":0},"north":{"uv":[9.5,6.5,11.25,7.25],"rotation":0,"texture":"#5b207868-5645-b898-8b42-e1687b302a02","tintindex":0},"south":{"uv":[12.75,6.5,14.5,7.25],"rotation":0,"texture":"#5b207868-5645-b898-8b42-e1687b302a02","tintindex":0},"up":{"uv":[11.25,6.5,9.5,5],"rotation":0,"texture":"#5b207868-5645-b898-8b42-e1687b302a02","tintindex":0},"west":{"uv":[11.25,6.5,12.75,7.25],"rotation":0,"texture":"#5b207868-5645-b898-8b42-e1687b302a02","tintindex":0}}},{"name":"tail","from":[8.3,8,8],"to":[11.900001,9.8,11.6],"rotation":{"angle":0,"axis":"x","origin":[8,8,8]},"faces":{"down":{"uv":[10.5,9,9,10.5],"rotation":0,"texture":"#5b207868-5645-b898-8b42-e1687b302a02","tintindex":0},"east":{"uv":[6,10.5,7.5,11.25],"rotation":0,"texture":"#5b207868-5645-b898-8b42-e1687b302a02","tintindex":0},"north":{"uv":[7.5,10.5,9,11.25],"rotation":0,"texture":"#5b207868-5645-b898-8b42-e1687b302a02","tintindex":0},"south":{"uv":[10.5,10.5,12,11.25],"rotation":0,"texture":"#5b207868-5645-b898-8b42-e1687b302a02","tintindex":0},"up":{"uv":[9,10.5,7.5,9],"rotation":0,"texture":"#5b207868-5645-b898-8b42-e1687b302a02","tintindex":0},"west":{"uv":[9,10.5,10.5,11.25],"rotation":0,"texture":"#5b207868-5645-b898-8b42-e1687b302a02","tintindex":0}}}],"display":{"head":{"translation":[0,-6.4,0],"rotation":[0,0,0],"scale":[3.8095,3.8095,3.8095]},"gui":{"translation":[0,0,0],"rotation":[35,225,0],"scale":[0.625,0.625,0.625]}}}
+{
+  "file_name": "thetail1",
+  "texture_size": [
+    64,
+    64
+  ],
+  "textures": {
+    "5b207868-5645-b898-8b42-e1687b302a02": "modelengine:entity/crocodile"
+  },
+  "elements": [
+    {
+      "name": "tail",
+      "from": [
+        8,
+        8,
+        4.3999996
+      ],
+      "to": [
+        12.2,
+        9.8,
+        8
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "x",
+        "origin": [
+          8,
+          8,
+          4.3999996
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            13,
+            5,
+            11.25,
+            6.5
+          ],
+          "rotation": 0,
+          "texture": "#5b207868-5645-b898-8b42-e1687b302a02",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            8,
+            6.5,
+            9.5,
+            7.25
+          ],
+          "rotation": 0,
+          "texture": "#5b207868-5645-b898-8b42-e1687b302a02",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            9.5,
+            6.5,
+            11.25,
+            7.25
+          ],
+          "rotation": 0,
+          "texture": "#5b207868-5645-b898-8b42-e1687b302a02",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            12.75,
+            6.5,
+            14.5,
+            7.25
+          ],
+          "rotation": 0,
+          "texture": "#5b207868-5645-b898-8b42-e1687b302a02",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            11.25,
+            6.5,
+            9.5,
+            5
+          ],
+          "rotation": 0,
+          "texture": "#5b207868-5645-b898-8b42-e1687b302a02",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            11.25,
+            6.5,
+            12.75,
+            7.25
+          ],
+          "rotation": 0,
+          "texture": "#5b207868-5645-b898-8b42-e1687b302a02",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "tail",
+      "from": [
+        8.3,
+        8,
+        8
+      ],
+      "to": [
+        11.900001,
+        9.8,
+        11.6
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "x",
+        "origin": [
+          8,
+          8,
+          8
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            10.5,
+            9,
+            9,
+            10.5
+          ],
+          "rotation": 0,
+          "texture": "#5b207868-5645-b898-8b42-e1687b302a02",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            6,
+            10.5,
+            7.5,
+            11.25
+          ],
+          "rotation": 0,
+          "texture": "#5b207868-5645-b898-8b42-e1687b302a02",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10.5,
+            9,
+            11.25
+          ],
+          "rotation": 0,
+          "texture": "#5b207868-5645-b898-8b42-e1687b302a02",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            10.5,
+            10.5,
+            12,
+            11.25
+          ],
+          "rotation": 0,
+          "texture": "#5b207868-5645-b898-8b42-e1687b302a02",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            9,
+            10.5,
+            7.5,
+            9
+          ],
+          "rotation": 0,
+          "texture": "#5b207868-5645-b898-8b42-e1687b302a02",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            9,
+            10.5,
+            10.5,
+            11.25
+          ],
+          "rotation": 0,
+          "texture": "#5b207868-5645-b898-8b42-e1687b302a02",
+          "tintindex": 0
+        }
+      }
+    }
+  ],
+  "display": {
+    "head": {
+      "translation": [
+        0,
+        -6.4,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        3.8095,
+        3.8095,
+        3.8095
+      ]
+    },
+    "gui": {
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        35,
+        225,
+        0
+      ],
+      "scale": [
+        0.625,
+        0.625,
+        0.625
+      ]
+    }
+  }
+}

@@ -1,1 +1,228 @@
-{"file_name":"leftarm2","texture_size":[128,128],"textures":{"4c25ab98-e6f1-272f-3fee-40d42862d01e":"modelengine:entity/golem"},"elements":[{"name":"cube","from":[2.7499998,3.9499998,-7.3],"to":[7.25,8.45,8.9],"rotation":{"angle":-22.5,"axis":"x","origin":[7.25,7.55,8]},"faces":{"down":{"uv":[5.375,4,4.375,7.375],"rotation":0,"texture":"#4c25ab98-e6f1-272f-3fee-40d42862d01e","tintindex":0},"east":{"uv":[2.625,3,6,4],"rotation":0,"texture":"#4c25ab98-e6f1-272f-3fee-40d42862d01e","tintindex":0},"north":{"uv":[6.875,5.5,7.875,6.5],"rotation":0,"texture":"#4c25ab98-e6f1-272f-3fee-40d42862d01e","tintindex":0},"south":{"uv":[6.875,6.5,7.875,7.5],"rotation":0,"texture":"#4c25ab98-e6f1-272f-3fee-40d42862d01e","tintindex":0},"up":{"uv":[4.375,7.375,3.375,4],"rotation":0,"texture":"#4c25ab98-e6f1-272f-3fee-40d42862d01e","tintindex":0},"west":{"uv":[0,4,3.375,5],"rotation":0,"texture":"#4c25ab98-e6f1-272f-3fee-40d42862d01e","tintindex":0}}},{"name":"cube","from":[4.5493994,8.4728365,-1.1851954],"to":[4.5493994,11.172836,3.6148047],"rotation":{"angle":-22.5,"axis":"x","origin":[5.1493998,7.2728367,8.114805]},"faces":{"down":{"uv":[5.375,4,4.375,7.375],"rotation":0,"texture":"#4c25ab98-e6f1-272f-3fee-40d42862d01e","tintindex":0},"east":{"uv":[12,3.625,11,4.1875],"rotation":0,"texture":"#4c25ab98-e6f1-272f-3fee-40d42862d01e","tintindex":0},"north":{"uv":[6.875,5.5,7.875,6.5],"rotation":0,"texture":"#4c25ab98-e6f1-272f-3fee-40d42862d01e","tintindex":0},"south":{"uv":[6.875,6.5,7.875,7.5],"rotation":0,"texture":"#4c25ab98-e6f1-272f-3fee-40d42862d01e","tintindex":0},"up":{"uv":[4.375,7.375,3.375,4],"rotation":0,"texture":"#4c25ab98-e6f1-272f-3fee-40d42862d01e","tintindex":0},"west":{"uv":[11,3.625,12,4.1875],"rotation":0,"texture":"#4c25ab98-e6f1-272f-3fee-40d42862d01e","tintindex":0}}}],"display":{"head":{"translation":[0,-6.4,0],"rotation":[0,0,0],"scale":[3.8095,3.8095,3.8095]},"gui":{"translation":[0,0,0],"rotation":[35,225,0],"scale":[0.625,0.625,0.625]}}}
+{
+  "file_name": "leftarm2",
+  "texture_size": [
+    128,
+    128
+  ],
+  "textures": {
+    "4c25ab98-e6f1-272f-3fee-40d42862d01e": "modelengine:entity/golem"
+  },
+  "elements": [
+    {
+      "name": "cube",
+      "from": [
+        2.7499998,
+        3.9499998,
+        -7.3
+      ],
+      "to": [
+        7.25,
+        8.45,
+        8.9
+      ],
+      "rotation": {
+        "angle": -22.5,
+        "axis": "x",
+        "origin": [
+          7.25,
+          7.55,
+          8
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            5.375,
+            4,
+            4.375,
+            7.375
+          ],
+          "rotation": 0,
+          "texture": "#4c25ab98-e6f1-272f-3fee-40d42862d01e",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            2.625,
+            3,
+            6,
+            4
+          ],
+          "rotation": 0,
+          "texture": "#4c25ab98-e6f1-272f-3fee-40d42862d01e",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            6.875,
+            5.5,
+            7.875,
+            6.5
+          ],
+          "rotation": 0,
+          "texture": "#4c25ab98-e6f1-272f-3fee-40d42862d01e",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            6.875,
+            6.5,
+            7.875,
+            7.5
+          ],
+          "rotation": 0,
+          "texture": "#4c25ab98-e6f1-272f-3fee-40d42862d01e",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            4.375,
+            7.375,
+            3.375,
+            4
+          ],
+          "rotation": 0,
+          "texture": "#4c25ab98-e6f1-272f-3fee-40d42862d01e",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            4,
+            3.375,
+            5
+          ],
+          "rotation": 0,
+          "texture": "#4c25ab98-e6f1-272f-3fee-40d42862d01e",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "cube",
+      "from": [
+        4.5493994,
+        8.4728365,
+        -1.1851954
+      ],
+      "to": [
+        4.5493994,
+        11.172836,
+        3.6148047
+      ],
+      "rotation": {
+        "angle": -22.5,
+        "axis": "x",
+        "origin": [
+          5.1493998,
+          7.2728367,
+          8.114805
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            5.375,
+            4,
+            4.375,
+            7.375
+          ],
+          "rotation": 0,
+          "texture": "#4c25ab98-e6f1-272f-3fee-40d42862d01e",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            12,
+            3.625,
+            11,
+            4.1875
+          ],
+          "rotation": 0,
+          "texture": "#4c25ab98-e6f1-272f-3fee-40d42862d01e",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            6.875,
+            5.5,
+            7.875,
+            6.5
+          ],
+          "rotation": 0,
+          "texture": "#4c25ab98-e6f1-272f-3fee-40d42862d01e",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            6.875,
+            6.5,
+            7.875,
+            7.5
+          ],
+          "rotation": 0,
+          "texture": "#4c25ab98-e6f1-272f-3fee-40d42862d01e",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            4.375,
+            7.375,
+            3.375,
+            4
+          ],
+          "rotation": 0,
+          "texture": "#4c25ab98-e6f1-272f-3fee-40d42862d01e",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            11,
+            3.625,
+            12,
+            4.1875
+          ],
+          "rotation": 0,
+          "texture": "#4c25ab98-e6f1-272f-3fee-40d42862d01e",
+          "tintindex": 0
+        }
+      }
+    }
+  ],
+  "display": {
+    "head": {
+      "translation": [
+        0,
+        -6.4,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        3.8095,
+        3.8095,
+        3.8095
+      ]
+    },
+    "gui": {
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        35,
+        225,
+        0
+      ],
+      "scale": [
+        0.625,
+        0.625,
+        0.625
+      ]
+    }
+  }
+}

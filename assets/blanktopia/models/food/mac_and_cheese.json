@@ -1,1 +1,7 @@
-{"parent":"item/handheld","textures":{"layer0":"blanktopia:food/mac_and_cheese","particle":"blanktopia:food/mac_and_cheese"}}
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "blanktopia:food/mac_and_cheese",
+    "particle": "blanktopia:food/mac_and_cheese"
+  }
+}

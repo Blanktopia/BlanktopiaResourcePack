@@ -1,1 +1,1832 @@
-{"overrides":[{"predicate":{"custom_model_data":1},"model":"modelengine:armadillo/frontleftleg"},{"predicate":{"custom_model_data":2},"model":"modelengine:armadillo/frontrightleg"},{"predicate":{"custom_model_data":3},"model":"modelengine:armadillo/leftbackleg"},{"predicate":{"custom_model_data":4},"model":"modelengine:armadillo/rightbackleg"},{"predicate":{"custom_model_data":5},"model":"modelengine:armadillo/head"},{"predicate":{"custom_model_data":6},"model":"modelengine:armadillo/armadillo"},{"predicate":{"custom_model_data":7},"model":"modelengine:brownaliveshroom/hat_bottom"},{"predicate":{"custom_model_data":8},"model":"modelengine:brownaliveshroom/hat_top"},{"predicate":{"custom_model_data":9},"model":"modelengine:brownaliveshroom/theeyes"},{"predicate":{"custom_model_data":10},"model":"modelengine:brownaliveshroom/thenose"},{"predicate":{"custom_model_data":11},"model":"modelengine:brownaliveshroom/thehead"},{"predicate":{"custom_model_data":12},"model":"modelengine:brownaliveshroom/thebody"},{"predicate":{"custom_model_data":13},"model":"modelengine:brownaliveshroom/therightarm"},{"predicate":{"custom_model_data":14},"model":"modelengine:brownaliveshroom/theleftarm"},{"predicate":{"custom_model_data":15},"model":"modelengine:brownaliveshroom/therightleg"},{"predicate":{"custom_model_data":16},"model":"modelengine:brownaliveshroom/theleftleg"},{"predicate":{"custom_model_data":17},"model":"modelengine:cacti/cacti"},{"predicate":{"custom_model_data":18},"model":"modelengine:camel/head"},{"predicate":{"custom_model_data":19},"model":"modelengine:camel/leftbackfoot"},{"predicate":{"custom_model_data":20},"model":"modelengine:camel/leftbackleg"},{"predicate":{"custom_model_data":21},"model":"modelengine:camel/rightbackfoot"},{"predicate":{"custom_model_data":22},"model":"modelengine:camel/rightbackleg"},{"predicate":{"custom_model_data":23},"model":"modelengine:camel/leftfrontfoot"},{"predicate":{"custom_model_data":24},"model":"modelengine:camel/leftfrontleg"},{"predicate":{"custom_model_data":25},"model":"modelengine:camel/rightfrontfoot"},{"predicate":{"custom_model_data":26},"model":"modelengine:camel/rightfrontleg"},{"predicate":{"custom_model_data":27},"model":"modelengine:camel/camel"},{"predicate":{"custom_model_data":28},"model":"modelengine:capybara/therightear"},{"predicate":{"custom_model_data":29},"model":"modelengine:capybara/theleftear"},{"predicate":{"custom_model_data":30},"model":"modelengine:capybara/thehead"},{"predicate":{"custom_model_data":31},"model":"modelengine:capybara/themouth"},{"predicate":{"custom_model_data":32},"model":"modelengine:capybara/theneck"},{"predicate":{"custom_model_data":33},"model":"modelengine:capybara/thefrontbody"},{"predicate":{"custom_model_data":34},"model":"modelengine:capybara/thebackbody"},{"predicate":{"custom_model_data":35},"model":"modelengine:capybara/theleftleg"},{"predicate":{"custom_model_data":36},"model":"modelengine:capybara/theleftthigh"},{"predicate":{"custom_model_data":37},"model":"modelengine:capybara/therightleg"},{"predicate":{"custom_model_data":38},"model":"modelengine:capybara/therightthigh"},{"predicate":{"custom_model_data":39},"model":"modelengine:capybara/theleftleg2"},{"predicate":{"custom_model_data":40},"model":"modelengine:capybara/theupperleftleg"},{"predicate":{"custom_model_data":41},"model":"modelengine:capybara/therightleg2"},{"predicate":{"custom_model_data":42},"model":"modelengine:capybara/theupperrightleg"},{"predicate":{"custom_model_data":43},"model":"modelengine:crocodile/theheaddetails"},{"predicate":{"custom_model_data":44},"model":"modelengine:crocodile/thehead"},{"predicate":{"custom_model_data":45},"model":"modelengine:crocodile/themouthbase"},{"predicate":{"custom_model_data":46},"model":"modelengine:crocodile/thelowermouth"},{"predicate":{"custom_model_data":47},"model":"modelengine:crocodile/theuppermouth"},{"predicate":{"custom_model_data":48},"model":"modelengine:crocodile/thebodydetails"},{"predicate":{"custom_model_data":49},"model":"modelengine:crocodile/thebody"},{"predicate":{"custom_model_data":50},"model":"modelengine:crocodile/therightleg1"},{"predicate":{"custom_model_data":51},"model":"modelengine:crocodile/therightleg2"},{"predicate":{"custom_model_data":52},"model":"modelengine:crocodile/theleftleg1"},{"predicate":{"custom_model_data":53},"model":"modelengine:crocodile/theleftleg2"},{"predicate":{"custom_model_data":54},"model":"modelengine:crocodile/thetaildetails"},{"predicate":{"custom_model_data":55},"model":"modelengine:crocodile/thetail1"},{"predicate":{"custom_model_data":56},"model":"modelengine:crocodile/thetaildetails2"},{"predicate":{"custom_model_data":57},"model":"modelengine:crocodile/thetail2"},{"predicate":{"custom_model_data":58},"model":"modelengine:dirtdevil/bone"},{"predicate":{"custom_model_data":59},"model":"modelengine:dirtdevil/bone2"},{"predicate":{"custom_model_data":60},"model":"modelengine:dirtdevil/dirtdevil"},{"predicate":{"custom_model_data":61},"model":"modelengine:dragonfly/leftwing"},{"predicate":{"custom_model_data":62},"model":"modelengine:dragonfly/rightwing"},{"predicate":{"custom_model_data":63},"model":"modelengine:dragonfly/head"},{"predicate":{"custom_model_data":64},"model":"modelengine:dragonfly/leftleg1"},{"predicate":{"custom_model_data":65},"model":"modelengine:dragonfly/rightleg1"},{"predicate":{"custom_model_data":66},"model":"modelengine:dragonfly/leftleg2"},{"predicate":{"custom_model_data":67},"model":"modelengine:dragonfly/rightleg2"},{"predicate":{"custom_model_data":68},"model":"modelengine:dragonfly/dragonfly"},{"predicate":{"custom_model_data":69},"model":"modelengine:dragonfly2/leftwing"},{"predicate":{"custom_model_data":70},"model":"modelengine:dragonfly2/rightwing"},{"predicate":{"custom_model_data":71},"model":"modelengine:dragonfly2/head"},{"predicate":{"custom_model_data":72},"model":"modelengine:dragonfly2/leftleg1"},{"predicate":{"custom_model_data":73},"model":"modelengine:dragonfly2/rightleg1"},{"predicate":{"custom_model_data":74},"model":"modelengine:dragonfly2/leftleg2"},{"predicate":{"custom_model_data":75},"model":"modelengine:dragonfly2/rightleg2"},{"predicate":{"custom_model_data":76},"model":"modelengine:dragonfly2/dragonfly"},{"predicate":{"custom_model_data":77},"model":"modelengine:dragonfly3/leftwing"},{"predicate":{"custom_model_data":78},"model":"modelengine:dragonfly3/rightwing"},{"predicate":{"custom_model_data":79},"model":"modelengine:dragonfly3/head"},{"predicate":{"custom_model_data":80},"model":"modelengine:dragonfly3/leftleg1"},{"predicate":{"custom_model_data":81},"model":"modelengine:dragonfly3/rightleg1"},{"predicate":{"custom_model_data":82},"model":"modelengine:dragonfly3/leftleg2"},{"predicate":{"custom_model_data":83},"model":"modelengine:dragonfly3/rightleg2"},{"predicate":{"custom_model_data":84},"model":"modelengine:dragonfly3/dragonfly"},{"predicate":{"custom_model_data":85},"model":"modelengine:dragonfly4/leftwing"},{"predicate":{"custom_model_data":86},"model":"modelengine:dragonfly4/rightwing"},{"predicate":{"custom_model_data":87},"model":"modelengine:dragonfly4/head"},{"predicate":{"custom_model_data":88},"model":"modelengine:dragonfly4/leftleg1"},{"predicate":{"custom_model_data":89},"model":"modelengine:dragonfly4/rightleg1"},{"predicate":{"custom_model_data":90},"model":"modelengine:dragonfly4/leftleg2"},{"predicate":{"custom_model_data":91},"model":"modelengine:dragonfly4/rightleg2"},{"predicate":{"custom_model_data":92},"model":"modelengine:dragonfly4/dragonfly"},{"predicate":{"custom_model_data":93},"model":"modelengine:flamingo/head"},{"predicate":{"custom_model_data":94},"model":"modelengine:flamingo/rightwing"},{"predicate":{"custom_model_data":95},"model":"modelengine:flamingo/leftwing"},{"predicate":{"custom_model_data":96},"model":"modelengine:flamingo/leftfoot"},{"predicate":{"custom_model_data":97},"model":"modelengine:flamingo/leftleg"},{"predicate":{"custom_model_data":98},"model":"modelengine:flamingo/rightfoot"},{"predicate":{"custom_model_data":99},"model":"modelengine:flamingo/rightleg"},{"predicate":{"custom_model_data":100},"model":"modelengine:flamingo/flamingo"},{"predicate":{"custom_model_data":101},"model":"modelengine:flamingo_baby/rightwing"},{"predicate":{"custom_model_data":102},"model":"modelengine:flamingo_baby/rightleg"},{"predicate":{"custom_model_data":103},"model":"modelengine:flamingo_baby/leftleg"},{"predicate":{"custom_model_data":104},"model":"modelengine:flamingo_baby/leftwing"},{"predicate":{"custom_model_data":105},"model":"modelengine:flamingo_baby/head"},{"predicate":{"custom_model_data":106},"model":"modelengine:flamingo_baby/body"},{"predicate":{"custom_model_data":107},"model":"modelengine:frog/thehead"},{"predicate":{"custom_model_data":108},"model":"modelengine:frog/therighteye"},{"predicate":{"custom_model_data":109},"model":"modelengine:frog/thelefteye"},{"predicate":{"custom_model_data":110},"model":"modelengine:frog/thefrontsidemouth"},{"predicate":{"custom_model_data":111},"model":"modelengine:frog/therightsidemouth"},{"predicate":{"custom_model_data":112},"model":"modelengine:frog/theleftsidemouth"},{"predicate":{"custom_model_data":113},"model":"modelengine:frog/thebody"},{"predicate":{"custom_model_data":114},"model":"modelengine:frog/therightarm"},{"predicate":{"custom_model_data":115},"model":"modelengine:frog/theleftarm"},{"predicate":{"custom_model_data":116},"model":"modelengine:frog/therightthigh"},{"predicate":{"custom_model_data":117},"model":"modelengine:frog/therightfoot"},{"predicate":{"custom_model_data":118},"model":"modelengine:frog/theleftthigh"},{"predicate":{"custom_model_data":119},"model":"modelengine:frog/theleftfoot"},{"predicate":{"custom_model_data":120},"model":"modelengine:giantclam/pearl"},{"predicate":{"custom_model_data":121},"model":"modelengine:giantclam/top"},{"predicate":{"custom_model_data":122},"model":"modelengine:giantclam/bottom"},{"predicate":{"custom_model_data":123},"model":"modelengine:golem/head"},{"predicate":{"custom_model_data":124},"model":"modelengine:golem/leftarm2"},{"predicate":{"custom_model_data":125},"model":"modelengine:golem/leftarm"},{"predicate":{"custom_model_data":126},"model":"modelengine:golem/leftleg2"},{"predicate":{"custom_model_data":127},"model":"modelengine:golem/leftleg"},{"predicate":{"custom_model_data":128},"model":"modelengine:golem/rightleg2"},{"predicate":{"custom_model_data":129},"model":"modelengine:golem/rightleg"},{"predicate":{"custom_model_data":130},"model":"modelengine:golem/rightarm2"},{"predicate":{"custom_model_data":131},"model":"modelengine:golem/rightarm"},{"predicate":{"custom_model_data":132},"model":"modelengine:golem/torso"},{"predicate":{"custom_model_data":133},"model":"modelengine:hermitcrab/bone2"},{"predicate":{"custom_model_data":134},"model":"modelengine:hermitcrab/bone3"},{"predicate":{"custom_model_data":135},"model":"modelengine:hermitcrab/bone4"},{"predicate":{"custom_model_data":136},"model":"modelengine:hermitcrab/bone"},{"predicate":{"custom_model_data":137},"model":"modelengine:hornytoad/frontleftarm"},{"predicate":{"custom_model_data":138},"model":"modelengine:hornytoad/frontrightarm"},{"predicate":{"custom_model_data":139},"model":"modelengine:hornytoad/head"},{"predicate":{"custom_model_data":140},"model":"modelengine:hornytoad/backleftarm"},{"predicate":{"custom_model_data":141},"model":"modelengine:hornytoad/backrightarm"},{"predicate":{"custom_model_data":142},"model":"modelengine:hornytoad/hornytoad"},{"predicate":{"custom_model_data":143},"model":"modelengine:jelly/tendrils4"},{"predicate":{"custom_model_data":144},"model":"modelengine:jelly/tendrils"},{"predicate":{"custom_model_data":145},"model":"modelengine:jelly/tendrils3"},{"predicate":{"custom_model_data":146},"model":"modelengine:jelly/tendrils2"},{"predicate":{"custom_model_data":147},"model":"modelengine:jelly/membrane"},{"predicate":{"custom_model_data":148},"model":"modelengine:jelly/jelly"},{"predicate":{"custom_model_data":149},"model":"modelengine:mimic/3"},{"predicate":{"custom_model_data":150},"model":"modelengine:mimic/2"},{"predicate":{"custom_model_data":151},"model":"modelengine:mimic/1"},{"predicate":{"custom_model_data":152},"model":"modelengine:mimic/tongue"},{"predicate":{"custom_model_data":153},"model":"modelengine:mimic/bone2"},{"predicate":{"custom_model_data":154},"model":"modelengine:mimic/bone"},{"predicate":{"custom_model_data":155},"model":"modelengine:pharaoh/head"},{"predicate":{"custom_model_data":156},"model":"modelengine:pharaoh/bandage"},{"predicate":{"custom_model_data":157},"model":"modelengine:pharaoh/righthand"},{"predicate":{"custom_model_data":158},"model":"modelengine:pharaoh/rightarm"},{"predicate":{"custom_model_data":159},"model":"modelengine:pharaoh/lefthand"},{"predicate":{"custom_model_data":160},"model":"modelengine:pharaoh/leftarm"},{"predicate":{"custom_model_data":161},"model":"modelengine:pharaoh/rightfoot"},{"predicate":{"custom_model_data":162},"model":"modelengine:pharaoh/rightleg"},{"predicate":{"custom_model_data":163},"model":"modelengine:pharaoh/leftfoot"},{"predicate":{"custom_model_data":164},"model":"modelengine:pharaoh/leftleg"},{"predicate":{"custom_model_data":165},"model":"modelengine:pharaoh/pharaoh"},{"predicate":{"custom_model_data":166},"model":"modelengine:plague/hand"},{"predicate":{"custom_model_data":167},"model":"modelengine:plague/fore"},{"predicate":{"custom_model_data":168},"model":"modelengine:plague/arm"},{"predicate":{"custom_model_data":169},"model":"modelengine:rat/lleg2"},{"predicate":{"custom_model_data":170},"model":"modelengine:rat/lleg"},{"predicate":{"custom_model_data":171},"model":"modelengine:rat/tail"},{"predicate":{"custom_model_data":172},"model":"modelengine:rat/lleg3"},{"predicate":{"custom_model_data":173},"model":"modelengine:rat/lleg4"},{"predicate":{"custom_model_data":174},"model":"modelengine:rat/body"},{"predicate":{"custom_model_data":175},"model":"modelengine:rattler/jaw"},{"predicate":{"custom_model_data":176},"model":"modelengine:rattler/rattle"},{"predicate":{"custom_model_data":177},"model":"modelengine:rattler/link5"},{"predicate":{"custom_model_data":178},"model":"modelengine:rattler/link4"},{"predicate":{"custom_model_data":179},"model":"modelengine:rattler/link3"},{"predicate":{"custom_model_data":180},"model":"modelengine:rattler/link2"},{"predicate":{"custom_model_data":181},"model":"modelengine:rattler/link"},{"predicate":{"custom_model_data":182},"model":"modelengine:rattler/head"},{"predicate":{"custom_model_data":183},"model":"modelengine:redaliveshroom/hat_bottom"},{"predicate":{"custom_model_data":184},"model":"modelengine:redaliveshroom/hat_top"},{"predicate":{"custom_model_data":185},"model":"modelengine:redaliveshroom/theeyes"},{"predicate":{"custom_model_data":186},"model":"modelengine:redaliveshroom/thenose"},{"predicate":{"custom_model_data":187},"model":"modelengine:redaliveshroom/thehead"},{"predicate":{"custom_model_data":188},"model":"modelengine:redaliveshroom/thebody"},{"predicate":{"custom_model_data":189},"model":"modelengine:redaliveshroom/therightarm"},{"predicate":{"custom_model_data":190},"model":"modelengine:redaliveshroom/theleftarm"},{"predicate":{"custom_model_data":191},"model":"modelengine:redaliveshroom/therightleg"},{"predicate":{"custom_model_data":192},"model":"modelengine:redaliveshroom/theleftleg"},{"predicate":{"custom_model_data":193},"model":"modelengine:rhino/leftshell"},{"predicate":{"custom_model_data":194},"model":"modelengine:rhino/rightshell"},{"predicate":{"custom_model_data":195},"model":"modelengine:rhino/legs1"},{"predicate":{"custom_model_data":196},"model":"modelengine:rhino/legs2"},{"predicate":{"custom_model_data":197},"model":"modelengine:rhino/legs3"},{"predicate":{"custom_model_data":198},"model":"modelengine:rhino/leftwing"},{"predicate":{"custom_model_data":199},"model":"modelengine:rhino/rightwing"},{"predicate":{"custom_model_data":200},"model":"modelengine:rhino/head"},{"predicate":{"custom_model_data":201},"model":"modelengine:rhino/body"},{"predicate":{"custom_model_data":202},"model":"modelengine:scarab/leftlegs"},{"predicate":{"custom_model_data":203},"model":"modelengine:scarab/rightlegs"},{"predicate":{"custom_model_data":204},"model":"modelengine:scarab/leftleg2"},{"predicate":{"custom_model_data":205},"model":"modelengine:scarab/rightleg2"},{"predicate":{"custom_model_data":206},"model":"modelengine:scarab/leftleg"},{"predicate":{"custom_model_data":207},"model":"modelengine:scarab/rightleg3"},{"predicate":{"custom_model_data":208},"model":"modelengine:scarab/scarab"},{"predicate":{"custom_model_data":209},"model":"modelengine:scorpid/rightclaw"},{"predicate":{"custom_model_data":210},"model":"modelengine:scorpid/rightarm"},{"predicate":{"custom_model_data":211},"model":"modelengine:scorpid/leftclaw"},{"predicate":{"custom_model_data":212},"model":"modelengine:scorpid/leftarm"},{"predicate":{"custom_model_data":213},"model":"modelengine:scorpid/backlegs"},{"predicate":{"custom_model_data":214},"model":"modelengine:scorpid/frontlegs"},{"predicate":{"custom_model_data":215},"model":"modelengine:scorpid/bone5"},{"predicate":{"custom_model_data":216},"model":"modelengine:scorpid/bone4"},{"predicate":{"custom_model_data":217},"model":"modelengine:scorpid/bone3"},{"predicate":{"custom_model_data":218},"model":"modelengine:scorpid/bone2"},{"predicate":{"custom_model_data":219},"model":"modelengine:scorpid/bone"},{"predicate":{"custom_model_data":220},"model":"modelengine:scorpid/body"},{"predicate":{"custom_model_data":221},"model":"modelengine:shark/rightfin"},{"predicate":{"custom_model_data":222},"model":"modelengine:shark/rightfin2"},{"predicate":{"custom_model_data":223},"model":"modelengine:shark/tail2"},{"predicate":{"custom_model_data":224},"model":"modelengine:shark/tail1"},{"predicate":{"custom_model_data":225},"model":"modelengine:shark/jaw"},{"predicate":{"custom_model_data":226},"model":"modelengine:shark/head"},{"predicate":{"custom_model_data":227},"model":"modelengine:shark/neck"},{"predicate":{"custom_model_data":228},"model":"modelengine:shark/body"},{"predicate":{"custom_model_data":229},"model":"modelengine:snappingturtle/head"},{"predicate":{"custom_model_data":230},"model":"modelengine:snappingturtle/leftleg"},{"predicate":{"custom_model_data":231},"model":"modelengine:snappingturtle/rightleg"},{"predicate":{"custom_model_data":232},"model":"modelengine:snappingturtle/leftleg2"},{"predicate":{"custom_model_data":233},"model":"modelengine:snappingturtle/rightleg2"},{"predicate":{"custom_model_data":234},"model":"modelengine:snappingturtle/body"},{"predicate":{"custom_model_data":235},"model":"modelengine:tumbleweed/tumbleweed"},{"predicate":{"custom_model_data":236},"model":"modelengine:undeadminer/left_leg"},{"predicate":{"custom_model_data":237},"model":"modelengine:undeadminer/left_arm"},{"predicate":{"custom_model_data":238},"model":"modelengine:undeadminer/right_arm"},{"predicate":{"custom_model_data":239},"model":"modelengine:undeadminer/head"},{"predicate":{"custom_model_data":240},"model":"modelengine:undeadminer/right_leg"},{"predicate":{"custom_model_data":241},"model":"modelengine:undeadminer/body"},{"predicate":{"custom_model_data":242},"model":"modelengine:vulture/head"},{"predicate":{"custom_model_data":243},"model":"modelengine:vulture/rightleg"},{"predicate":{"custom_model_data":244},"model":"modelengine:vulture/leftleg"},{"predicate":{"custom_model_data":245},"model":"modelengine:vulture/rightwing"},{"predicate":{"custom_model_data":246},"model":"modelengine:vulture/leftwing3"},{"predicate":{"custom_model_data":247},"model":"modelengine:vulture/vulture"},{"predicate":{"custom_model_data":248},"model":"modelengine:zombievomit/vomit"},{"model":"blanktopia:furniture/oak_chair","predicate":{"custom_model_data":1000}},{"model":"blanktopia:furniture/spruce_chair","predicate":{"custom_model_data":1001}},{"model":"blanktopia:furniture/birch_chair","predicate":{"custom_model_data":1002}},{"model":"blanktopia:furniture/jungle_chair","predicate":{"custom_model_data":1003}},{"model":"blanktopia:furniture/acacia_chair","predicate":{"custom_model_data":1004}},{"model":"blanktopia:furniture/dark_oak_chair","predicate":{"custom_model_data":1005}},{"model":"blanktopia:furniture/crimson_chair","predicate":{"custom_model_data":1006}},{"model":"blanktopia:furniture/warped_chair","predicate":{"custom_model_data":1007}},{"model":"blanktopia:furniture/oak_stool","predicate":{"custom_model_data":1010}},{"model":"blanktopia:furniture/spruce_stool","predicate":{"custom_model_data":1011}},{"model":"blanktopia:furniture/birch_stool","predicate":{"custom_model_data":1012}},{"model":"blanktopia:furniture/jungle_stool","predicate":{"custom_model_data":1013}},{"model":"blanktopia:furniture/acacia_stool","predicate":{"custom_model_data":1014}},{"model":"blanktopia:furniture/dark_oak_stool","predicate":{"custom_model_data":1015}},{"model":"blanktopia:furniture/crimson_stool","predicate":{"custom_model_data":1016}},{"model":"blanktopia:furniture/warped_stool","predicate":{"custom_model_data":1017}},{"model":"blanktopia:furniture/oak_desk","predicate":{"custom_model_data":1020}},{"model":"blanktopia:furniture/spruce_desk","predicate":{"custom_model_data":1021}},{"model":"blanktopia:furniture/birch_desk","predicate":{"custom_model_data":1022}},{"model":"blanktopia:furniture/jungle_desk","predicate":{"custom_model_data":1023}},{"model":"blanktopia:furniture/acacia_desk","predicate":{"custom_model_data":1024}},{"model":"blanktopia:furniture/dark_oak_desk","predicate":{"custom_model_data":1025}},{"model":"blanktopia:furniture/crimson_desk","predicate":{"custom_model_data":1026}},{"model":"blanktopia:furniture/warped_desk","predicate":{"custom_model_data":1027}},{"model":"blanktopia:furniture/oak_garden_table","predicate":{"custom_model_data":1030}},{"model":"blanktopia:furniture/spruce_garden_table","predicate":{"custom_model_data":1031}},{"model":"blanktopia:furniture/birch_garden_table","predicate":{"custom_model_data":1032}},{"model":"blanktopia:furniture/jungle_garden_table","predicate":{"custom_model_data":1033}},{"model":"blanktopia:furniture/acacia_garden_table","predicate":{"custom_model_data":1034}},{"model":"blanktopia:furniture/dark_oak_garden_table","predicate":{"custom_model_data":1035}},{"model":"blanktopia:furniture/crimson_garden_table","predicate":{"custom_model_data":1036}},{"model":"blanktopia:furniture/warped_garden_table","predicate":{"custom_model_data":1037}},{"model":"blanktopia:furniture/oak_beach_chair","predicate":{"custom_model_data":1040}},{"model":"blanktopia:furniture/spruce_beach_chair","predicate":{"custom_model_data":1041}},{"model":"blanktopia:furniture/birch_beach_chair","predicate":{"custom_model_data":1042}},{"model":"blanktopia:furniture/jungle_beach_chair","predicate":{"custom_model_data":1043}},{"model":"blanktopia:furniture/acacia_beach_chair","predicate":{"custom_model_data":1044}},{"model":"blanktopia:furniture/dark_oak_beach_chair","predicate":{"custom_model_data":1045}},{"model":"blanktopia:furniture/crimson_beach_chair","predicate":{"custom_model_data":1046}},{"model":"blanktopia:furniture/warped_beach_chair","predicate":{"custom_model_data":1047}}],"parent":"item/handheld_rod","textures":{"layer0":"item/leather_horse_armor"}}
+{
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "modelengine:armadillo/frontleftleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "modelengine:armadillo/frontrightleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "modelengine:armadillo/leftbackleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "modelengine:armadillo/rightbackleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "modelengine:armadillo/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "modelengine:armadillo/armadillo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "modelengine:brownaliveshroom/hat_bottom"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "modelengine:brownaliveshroom/hat_top"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "modelengine:brownaliveshroom/theeyes"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "modelengine:brownaliveshroom/thenose"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "modelengine:brownaliveshroom/thehead"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "modelengine:brownaliveshroom/thebody"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "modelengine:brownaliveshroom/therightarm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "modelengine:brownaliveshroom/theleftarm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "modelengine:brownaliveshroom/therightleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "modelengine:brownaliveshroom/theleftleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 17
+      },
+      "model": "modelengine:cacti/cacti"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18
+      },
+      "model": "modelengine:camel/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 19
+      },
+      "model": "modelengine:camel/leftbackfoot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20
+      },
+      "model": "modelengine:camel/leftbackleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 21
+      },
+      "model": "modelengine:camel/rightbackfoot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 22
+      },
+      "model": "modelengine:camel/rightbackleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23
+      },
+      "model": "modelengine:camel/leftfrontfoot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24
+      },
+      "model": "modelengine:camel/leftfrontleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 25
+      },
+      "model": "modelengine:camel/rightfrontfoot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 26
+      },
+      "model": "modelengine:camel/rightfrontleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 27
+      },
+      "model": "modelengine:camel/camel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 28
+      },
+      "model": "modelengine:capybara/therightear"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 29
+      },
+      "model": "modelengine:capybara/theleftear"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30
+      },
+      "model": "modelengine:capybara/thehead"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31
+      },
+      "model": "modelengine:capybara/themouth"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32
+      },
+      "model": "modelengine:capybara/theneck"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33
+      },
+      "model": "modelengine:capybara/thefrontbody"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 34
+      },
+      "model": "modelengine:capybara/thebackbody"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 35
+      },
+      "model": "modelengine:capybara/theleftleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 36
+      },
+      "model": "modelengine:capybara/theleftthigh"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37
+      },
+      "model": "modelengine:capybara/therightleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 38
+      },
+      "model": "modelengine:capybara/therightthigh"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 39
+      },
+      "model": "modelengine:capybara/theleftleg2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40
+      },
+      "model": "modelengine:capybara/theupperleftleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 41
+      },
+      "model": "modelengine:capybara/therightleg2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 42
+      },
+      "model": "modelengine:capybara/theupperrightleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 43
+      },
+      "model": "modelengine:crocodile/theheaddetails"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 44
+      },
+      "model": "modelengine:crocodile/thehead"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 45
+      },
+      "model": "modelengine:crocodile/themouthbase"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 46
+      },
+      "model": "modelengine:crocodile/thelowermouth"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 47
+      },
+      "model": "modelengine:crocodile/theuppermouth"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 48
+      },
+      "model": "modelengine:crocodile/thebodydetails"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 49
+      },
+      "model": "modelengine:crocodile/thebody"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50
+      },
+      "model": "modelengine:crocodile/therightleg1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 51
+      },
+      "model": "modelengine:crocodile/therightleg2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 52
+      },
+      "model": "modelengine:crocodile/theleftleg1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 53
+      },
+      "model": "modelengine:crocodile/theleftleg2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 54
+      },
+      "model": "modelengine:crocodile/thetaildetails"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 55
+      },
+      "model": "modelengine:crocodile/thetail1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 56
+      },
+      "model": "modelengine:crocodile/thetaildetails2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 57
+      },
+      "model": "modelengine:crocodile/thetail2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 58
+      },
+      "model": "modelengine:dirtdevil/bone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 59
+      },
+      "model": "modelengine:dirtdevil/bone2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 60
+      },
+      "model": "modelengine:dirtdevil/dirtdevil"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 61
+      },
+      "model": "modelengine:dragonfly/leftwing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 62
+      },
+      "model": "modelengine:dragonfly/rightwing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 63
+      },
+      "model": "modelengine:dragonfly/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 64
+      },
+      "model": "modelengine:dragonfly/leftleg1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 65
+      },
+      "model": "modelengine:dragonfly/rightleg1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 66
+      },
+      "model": "modelengine:dragonfly/leftleg2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 67
+      },
+      "model": "modelengine:dragonfly/rightleg2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 68
+      },
+      "model": "modelengine:dragonfly/dragonfly"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 69
+      },
+      "model": "modelengine:dragonfly2/leftwing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 70
+      },
+      "model": "modelengine:dragonfly2/rightwing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 71
+      },
+      "model": "modelengine:dragonfly2/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 72
+      },
+      "model": "modelengine:dragonfly2/leftleg1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 73
+      },
+      "model": "modelengine:dragonfly2/rightleg1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 74
+      },
+      "model": "modelengine:dragonfly2/leftleg2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 75
+      },
+      "model": "modelengine:dragonfly2/rightleg2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 76
+      },
+      "model": "modelengine:dragonfly2/dragonfly"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 77
+      },
+      "model": "modelengine:dragonfly3/leftwing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 78
+      },
+      "model": "modelengine:dragonfly3/rightwing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 79
+      },
+      "model": "modelengine:dragonfly3/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 80
+      },
+      "model": "modelengine:dragonfly3/leftleg1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 81
+      },
+      "model": "modelengine:dragonfly3/rightleg1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 82
+      },
+      "model": "modelengine:dragonfly3/leftleg2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 83
+      },
+      "model": "modelengine:dragonfly3/rightleg2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 84
+      },
+      "model": "modelengine:dragonfly3/dragonfly"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 85
+      },
+      "model": "modelengine:dragonfly4/leftwing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 86
+      },
+      "model": "modelengine:dragonfly4/rightwing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 87
+      },
+      "model": "modelengine:dragonfly4/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 88
+      },
+      "model": "modelengine:dragonfly4/leftleg1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 89
+      },
+      "model": "modelengine:dragonfly4/rightleg1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 90
+      },
+      "model": "modelengine:dragonfly4/leftleg2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 91
+      },
+      "model": "modelengine:dragonfly4/rightleg2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 92
+      },
+      "model": "modelengine:dragonfly4/dragonfly"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 93
+      },
+      "model": "modelengine:flamingo/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 94
+      },
+      "model": "modelengine:flamingo/rightwing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 95
+      },
+      "model": "modelengine:flamingo/leftwing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 96
+      },
+      "model": "modelengine:flamingo/leftfoot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 97
+      },
+      "model": "modelengine:flamingo/leftleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 98
+      },
+      "model": "modelengine:flamingo/rightfoot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 99
+      },
+      "model": "modelengine:flamingo/rightleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100
+      },
+      "model": "modelengine:flamingo/flamingo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 101
+      },
+      "model": "modelengine:flamingo_baby/rightwing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 102
+      },
+      "model": "modelengine:flamingo_baby/rightleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 103
+      },
+      "model": "modelengine:flamingo_baby/leftleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 104
+      },
+      "model": "modelengine:flamingo_baby/leftwing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 105
+      },
+      "model": "modelengine:flamingo_baby/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 106
+      },
+      "model": "modelengine:flamingo_baby/body"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 107
+      },
+      "model": "modelengine:frog/thehead"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 108
+      },
+      "model": "modelengine:frog/therighteye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 109
+      },
+      "model": "modelengine:frog/thelefteye"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 110
+      },
+      "model": "modelengine:frog/thefrontsidemouth"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 111
+      },
+      "model": "modelengine:frog/therightsidemouth"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 112
+      },
+      "model": "modelengine:frog/theleftsidemouth"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 113
+      },
+      "model": "modelengine:frog/thebody"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 114
+      },
+      "model": "modelengine:frog/therightarm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 115
+      },
+      "model": "modelengine:frog/theleftarm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 116
+      },
+      "model": "modelengine:frog/therightthigh"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 117
+      },
+      "model": "modelengine:frog/therightfoot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 118
+      },
+      "model": "modelengine:frog/theleftthigh"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 119
+      },
+      "model": "modelengine:frog/theleftfoot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 120
+      },
+      "model": "modelengine:giantclam/pearl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 121
+      },
+      "model": "modelengine:giantclam/top"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 122
+      },
+      "model": "modelengine:giantclam/bottom"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 123
+      },
+      "model": "modelengine:golem/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 124
+      },
+      "model": "modelengine:golem/leftarm2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 125
+      },
+      "model": "modelengine:golem/leftarm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 126
+      },
+      "model": "modelengine:golem/leftleg2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 127
+      },
+      "model": "modelengine:golem/leftleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 128
+      },
+      "model": "modelengine:golem/rightleg2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 129
+      },
+      "model": "modelengine:golem/rightleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130
+      },
+      "model": "modelengine:golem/rightarm2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 131
+      },
+      "model": "modelengine:golem/rightarm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 132
+      },
+      "model": "modelengine:golem/torso"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 133
+      },
+      "model": "modelengine:hermitcrab/bone2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 134
+      },
+      "model": "modelengine:hermitcrab/bone3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 135
+      },
+      "model": "modelengine:hermitcrab/bone4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 136
+      },
+      "model": "modelengine:hermitcrab/bone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 137
+      },
+      "model": "modelengine:hornytoad/frontleftarm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 138
+      },
+      "model": "modelengine:hornytoad/frontrightarm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 139
+      },
+      "model": "modelengine:hornytoad/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 140
+      },
+      "model": "modelengine:hornytoad/backleftarm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 141
+      },
+      "model": "modelengine:hornytoad/backrightarm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 142
+      },
+      "model": "modelengine:hornytoad/hornytoad"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 143
+      },
+      "model": "modelengine:jelly/tendrils4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 144
+      },
+      "model": "modelengine:jelly/tendrils"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 145
+      },
+      "model": "modelengine:jelly/tendrils3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 146
+      },
+      "model": "modelengine:jelly/tendrils2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 147
+      },
+      "model": "modelengine:jelly/membrane"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 148
+      },
+      "model": "modelengine:jelly/jelly"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 149
+      },
+      "model": "modelengine:mimic/3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 150
+      },
+      "model": "modelengine:mimic/2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 151
+      },
+      "model": "modelengine:mimic/1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 152
+      },
+      "model": "modelengine:mimic/tongue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 153
+      },
+      "model": "modelengine:mimic/bone2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 154
+      },
+      "model": "modelengine:mimic/bone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 155
+      },
+      "model": "modelengine:pharaoh/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 156
+      },
+      "model": "modelengine:pharaoh/bandage"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 157
+      },
+      "model": "modelengine:pharaoh/righthand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 158
+      },
+      "model": "modelengine:pharaoh/rightarm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 159
+      },
+      "model": "modelengine:pharaoh/lefthand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 160
+      },
+      "model": "modelengine:pharaoh/leftarm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 161
+      },
+      "model": "modelengine:pharaoh/rightfoot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 162
+      },
+      "model": "modelengine:pharaoh/rightleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 163
+      },
+      "model": "modelengine:pharaoh/leftfoot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 164
+      },
+      "model": "modelengine:pharaoh/leftleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 165
+      },
+      "model": "modelengine:pharaoh/pharaoh"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 166
+      },
+      "model": "modelengine:plague/hand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 167
+      },
+      "model": "modelengine:plague/fore"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 168
+      },
+      "model": "modelengine:plague/arm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 169
+      },
+      "model": "modelengine:rat/lleg2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 170
+      },
+      "model": "modelengine:rat/lleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 171
+      },
+      "model": "modelengine:rat/tail"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 172
+      },
+      "model": "modelengine:rat/lleg3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 173
+      },
+      "model": "modelengine:rat/lleg4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 174
+      },
+      "model": "modelengine:rat/body"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 175
+      },
+      "model": "modelengine:rattler/jaw"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 176
+      },
+      "model": "modelengine:rattler/rattle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 177
+      },
+      "model": "modelengine:rattler/link5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 178
+      },
+      "model": "modelengine:rattler/link4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 179
+      },
+      "model": "modelengine:rattler/link3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 180
+      },
+      "model": "modelengine:rattler/link2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 181
+      },
+      "model": "modelengine:rattler/link"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 182
+      },
+      "model": "modelengine:rattler/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 183
+      },
+      "model": "modelengine:redaliveshroom/hat_bottom"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 184
+      },
+      "model": "modelengine:redaliveshroom/hat_top"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 185
+      },
+      "model": "modelengine:redaliveshroom/theeyes"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 186
+      },
+      "model": "modelengine:redaliveshroom/thenose"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 187
+      },
+      "model": "modelengine:redaliveshroom/thehead"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 188
+      },
+      "model": "modelengine:redaliveshroom/thebody"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 189
+      },
+      "model": "modelengine:redaliveshroom/therightarm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 190
+      },
+      "model": "modelengine:redaliveshroom/theleftarm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 191
+      },
+      "model": "modelengine:redaliveshroom/therightleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 192
+      },
+      "model": "modelengine:redaliveshroom/theleftleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 193
+      },
+      "model": "modelengine:rhino/leftshell"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 194
+      },
+      "model": "modelengine:rhino/rightshell"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 195
+      },
+      "model": "modelengine:rhino/legs1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 196
+      },
+      "model": "modelengine:rhino/legs2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 197
+      },
+      "model": "modelengine:rhino/legs3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 198
+      },
+      "model": "modelengine:rhino/leftwing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 199
+      },
+      "model": "modelengine:rhino/rightwing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 200
+      },
+      "model": "modelengine:rhino/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 201
+      },
+      "model": "modelengine:rhino/body"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 202
+      },
+      "model": "modelengine:scarab/leftlegs"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 203
+      },
+      "model": "modelengine:scarab/rightlegs"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 204
+      },
+      "model": "modelengine:scarab/leftleg2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 205
+      },
+      "model": "modelengine:scarab/rightleg2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 206
+      },
+      "model": "modelengine:scarab/leftleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 207
+      },
+      "model": "modelengine:scarab/rightleg3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 208
+      },
+      "model": "modelengine:scarab/scarab"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 209
+      },
+      "model": "modelengine:scorpid/rightclaw"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 210
+      },
+      "model": "modelengine:scorpid/rightarm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 211
+      },
+      "model": "modelengine:scorpid/leftclaw"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 212
+      },
+      "model": "modelengine:scorpid/leftarm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 213
+      },
+      "model": "modelengine:scorpid/backlegs"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 214
+      },
+      "model": "modelengine:scorpid/frontlegs"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 215
+      },
+      "model": "modelengine:scorpid/bone5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 216
+      },
+      "model": "modelengine:scorpid/bone4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 217
+      },
+      "model": "modelengine:scorpid/bone3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 218
+      },
+      "model": "modelengine:scorpid/bone2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 219
+      },
+      "model": "modelengine:scorpid/bone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 220
+      },
+      "model": "modelengine:scorpid/body"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 221
+      },
+      "model": "modelengine:shark/rightfin"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 222
+      },
+      "model": "modelengine:shark/rightfin2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 223
+      },
+      "model": "modelengine:shark/tail2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 224
+      },
+      "model": "modelengine:shark/tail1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 225
+      },
+      "model": "modelengine:shark/jaw"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 226
+      },
+      "model": "modelengine:shark/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 227
+      },
+      "model": "modelengine:shark/neck"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 228
+      },
+      "model": "modelengine:shark/body"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 229
+      },
+      "model": "modelengine:snappingturtle/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 230
+      },
+      "model": "modelengine:snappingturtle/leftleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 231
+      },
+      "model": "modelengine:snappingturtle/rightleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 232
+      },
+      "model": "modelengine:snappingturtle/leftleg2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 233
+      },
+      "model": "modelengine:snappingturtle/rightleg2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 234
+      },
+      "model": "modelengine:snappingturtle/body"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 235
+      },
+      "model": "modelengine:tumbleweed/tumbleweed"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 236
+      },
+      "model": "modelengine:undeadminer/left_leg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 237
+      },
+      "model": "modelengine:undeadminer/left_arm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 238
+      },
+      "model": "modelengine:undeadminer/right_arm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 239
+      },
+      "model": "modelengine:undeadminer/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 240
+      },
+      "model": "modelengine:undeadminer/right_leg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 241
+      },
+      "model": "modelengine:undeadminer/body"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 242
+      },
+      "model": "modelengine:vulture/head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 243
+      },
+      "model": "modelengine:vulture/rightleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 244
+      },
+      "model": "modelengine:vulture/leftleg"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 245
+      },
+      "model": "modelengine:vulture/rightwing"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 246
+      },
+      "model": "modelengine:vulture/leftwing3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 247
+      },
+      "model": "modelengine:vulture/vulture"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 248
+      },
+      "model": "modelengine:zombievomit/vomit"
+    },
+    {
+      "model": "blanktopia:furniture/oak_chair",
+      "predicate": {
+        "custom_model_data": 1000
+      }
+    },
+    {
+      "model": "blanktopia:furniture/spruce_chair",
+      "predicate": {
+        "custom_model_data": 1001
+      }
+    },
+    {
+      "model": "blanktopia:furniture/birch_chair",
+      "predicate": {
+        "custom_model_data": 1002
+      }
+    },
+    {
+      "model": "blanktopia:furniture/jungle_chair",
+      "predicate": {
+        "custom_model_data": 1003
+      }
+    },
+    {
+      "model": "blanktopia:furniture/acacia_chair",
+      "predicate": {
+        "custom_model_data": 1004
+      }
+    },
+    {
+      "model": "blanktopia:furniture/dark_oak_chair",
+      "predicate": {
+        "custom_model_data": 1005
+      }
+    },
+    {
+      "model": "blanktopia:furniture/crimson_chair",
+      "predicate": {
+        "custom_model_data": 1006
+      }
+    },
+    {
+      "model": "blanktopia:furniture/warped_chair",
+      "predicate": {
+        "custom_model_data": 1007
+      }
+    },
+    {
+      "model": "blanktopia:furniture/oak_stool",
+      "predicate": {
+        "custom_model_data": 1010
+      }
+    },
+    {
+      "model": "blanktopia:furniture/spruce_stool",
+      "predicate": {
+        "custom_model_data": 1011
+      }
+    },
+    {
+      "model": "blanktopia:furniture/birch_stool",
+      "predicate": {
+        "custom_model_data": 1012
+      }
+    },
+    {
+      "model": "blanktopia:furniture/jungle_stool",
+      "predicate": {
+        "custom_model_data": 1013
+      }
+    },
+    {
+      "model": "blanktopia:furniture/acacia_stool",
+      "predicate": {
+        "custom_model_data": 1014
+      }
+    },
+    {
+      "model": "blanktopia:furniture/dark_oak_stool",
+      "predicate": {
+        "custom_model_data": 1015
+      }
+    },
+    {
+      "model": "blanktopia:furniture/crimson_stool",
+      "predicate": {
+        "custom_model_data": 1016
+      }
+    },
+    {
+      "model": "blanktopia:furniture/warped_stool",
+      "predicate": {
+        "custom_model_data": 1017
+      }
+    },
+    {
+      "model": "blanktopia:furniture/oak_desk",
+      "predicate": {
+        "custom_model_data": 1020
+      }
+    },
+    {
+      "model": "blanktopia:furniture/spruce_desk",
+      "predicate": {
+        "custom_model_data": 1021
+      }
+    },
+    {
+      "model": "blanktopia:furniture/birch_desk",
+      "predicate": {
+        "custom_model_data": 1022
+      }
+    },
+    {
+      "model": "blanktopia:furniture/jungle_desk",
+      "predicate": {
+        "custom_model_data": 1023
+      }
+    },
+    {
+      "model": "blanktopia:furniture/acacia_desk",
+      "predicate": {
+        "custom_model_data": 1024
+      }
+    },
+    {
+      "model": "blanktopia:furniture/dark_oak_desk",
+      "predicate": {
+        "custom_model_data": 1025
+      }
+    },
+    {
+      "model": "blanktopia:furniture/crimson_desk",
+      "predicate": {
+        "custom_model_data": 1026
+      }
+    },
+    {
+      "model": "blanktopia:furniture/warped_desk",
+      "predicate": {
+        "custom_model_data": 1027
+      }
+    },
+    {
+      "model": "blanktopia:furniture/oak_garden_table",
+      "predicate": {
+        "custom_model_data": 1030
+      }
+    },
+    {
+      "model": "blanktopia:furniture/spruce_garden_table",
+      "predicate": {
+        "custom_model_data": 1031
+      }
+    },
+    {
+      "model": "blanktopia:furniture/birch_garden_table",
+      "predicate": {
+        "custom_model_data": 1032
+      }
+    },
+    {
+      "model": "blanktopia:furniture/jungle_garden_table",
+      "predicate": {
+        "custom_model_data": 1033
+      }
+    },
+    {
+      "model": "blanktopia:furniture/acacia_garden_table",
+      "predicate": {
+        "custom_model_data": 1034
+      }
+    },
+    {
+      "model": "blanktopia:furniture/dark_oak_garden_table",
+      "predicate": {
+        "custom_model_data": 1035
+      }
+    },
+    {
+      "model": "blanktopia:furniture/crimson_garden_table",
+      "predicate": {
+        "custom_model_data": 1036
+      }
+    },
+    {
+      "model": "blanktopia:furniture/warped_garden_table",
+      "predicate": {
+        "custom_model_data": 1037
+      }
+    },
+    {
+      "model": "blanktopia:furniture/oak_beach_chair",
+      "predicate": {
+        "custom_model_data": 1040
+      }
+    },
+    {
+      "model": "blanktopia:furniture/spruce_beach_chair",
+      "predicate": {
+        "custom_model_data": 1041
+      }
+    },
+    {
+      "model": "blanktopia:furniture/birch_beach_chair",
+      "predicate": {
+        "custom_model_data": 1042
+      }
+    },
+    {
+      "model": "blanktopia:furniture/jungle_beach_chair",
+      "predicate": {
+        "custom_model_data": 1043
+      }
+    },
+    {
+      "model": "blanktopia:furniture/acacia_beach_chair",
+      "predicate": {
+        "custom_model_data": 1044
+      }
+    },
+    {
+      "model": "blanktopia:furniture/dark_oak_beach_chair",
+      "predicate": {
+        "custom_model_data": 1045
+      }
+    },
+    {
+      "model": "blanktopia:furniture/crimson_beach_chair",
+      "predicate": {
+        "custom_model_data": 1046
+      }
+    },
+    {
+      "model": "blanktopia:furniture/warped_beach_chair",
+      "predicate": {
+        "custom_model_data": 1047
+      }
+    },
+    {
+      "model": "blanktopia:furniture/oak_round_table",
+      "predicate": {
+        "custom_model_data": 1050
+      }
+    },
+    {
+      "model": "blanktopia:furniture/spruce_round_table",
+      "predicate": {
+        "custom_model_data": 1051
+      }
+    },
+    {
+      "model": "blanktopia:furniture/birch_round_table",
+      "predicate": {
+        "custom_model_data": 1052
+      }
+    },
+    {
+      "model": "blanktopia:furniture/jungle_round_table",
+      "predicate": {
+        "custom_model_data": 1053
+      }
+    },
+    {
+      "model": "blanktopia:furniture/acacia_round_table",
+      "predicate": {
+        "custom_model_data": 1054
+      }
+    },
+    {
+      "model": "blanktopia:furniture/dark_oak_round_table",
+      "predicate": {
+        "custom_model_data": 1055
+      }
+    },
+    {
+      "model": "blanktopia:furniture/crimson_round_table",
+      "predicate": {
+        "custom_model_data": 1056
+      }
+    },
+    {
+      "model": "blanktopia:furniture/warped_round_table",
+      "predicate": {
+        "custom_model_data": 1057
+      }
+    },
+    {
+      "model": "blanktopia:furniture/oak_table",
+      "predicate": {
+        "custom_model_data": 1060
+      }
+    },
+    {
+      "model": "blanktopia:furniture/spruce_table",
+      "predicate": {
+        "custom_model_data": 1061
+      }
+    },
+    {
+      "model": "blanktopia:furniture/birch_table",
+      "predicate": {
+        "custom_model_data": 1062
+      }
+    },
+    {
+      "model": "blanktopia:furniture/jungle_table",
+      "predicate": {
+        "custom_model_data": 1063
+      }
+    },
+    {
+      "model": "blanktopia:furniture/acacia_table",
+      "predicate": {
+        "custom_model_data": 1064
+      }
+    },
+    {
+      "model": "blanktopia:furniture/dark_oak_table",
+      "predicate": {
+        "custom_model_data": 1065
+      }
+    },
+    {
+      "model": "blanktopia:furniture/crimson_table",
+      "predicate": {
+        "custom_model_data": 1066
+      }
+    },
+    {
+      "model": "blanktopia:furniture/warped_table",
+      "predicate": {
+        "custom_model_data": 1067
+      }
+    }
+  ],
+  "parent": "item/handheld_rod",
+  "textures": {
+    "layer0": "item/leather_horse_armor"
+  }
+}

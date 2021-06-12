@@ -1,1 +1,14 @@
-{"parent":"item/generated","textures":{"layer0":"item/pumpkin_pie"},"overrides":[{"predicate":{"custom_model_data":1},"model":"blanktopia:food/apple_pie"}]}
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/pumpkin_pie"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "blanktopia:food/apple_pie"
+    }
+  ]
+}

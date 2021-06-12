@@ -1,1 +1,7 @@
-{"parent":"item/handheld","textures":{"layer0":"blanktopia:food/squid_ink_pasta","particle":"blanktopia:food/squid_ink_pasta"}}
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "blanktopia:food/squid_ink_pasta",
+    "particle": "blanktopia:food/squid_ink_pasta"
+  }
+}

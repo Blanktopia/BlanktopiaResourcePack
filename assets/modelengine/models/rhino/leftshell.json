@@ -1,1 +1,228 @@
-{"file_name":"leftshell","texture_size":[64,64],"textures":{"cdc405e9-9929-1759-7bd1-b03edcd92831":"modelengine:entity/rhino"},"elements":[{"name":"cube","from":[7.4900002,6.59,7.88],"to":[8.18,8.389999,12.98],"rotation":{"angle":0,"axis":"x","origin":[7.9100003,8.09,8]},"faces":{"down":{"uv":[2.5,5,2.75,7],"rotation":0,"texture":"#cdc405e9-9929-1759-7bd1-b03edcd92831","tintindex":0},"east":{"uv":[2,7,0,7.75],"rotation":0,"texture":"#cdc405e9-9929-1759-7bd1-b03edcd92831","tintindex":0},"north":{"uv":[2.125,7,2,7.75],"rotation":0,"texture":"#cdc405e9-9929-1759-7bd1-b03edcd92831","tintindex":0},"south":{"uv":[5.5,7,5.25,7.75],"rotation":0,"texture":"#cdc405e9-9929-1759-7bd1-b03edcd92831","tintindex":0},"up":{"uv":[2,7,2.25,5],"rotation":0,"texture":"#cdc405e9-9929-1759-7bd1-b03edcd92831","tintindex":0},"west":{"uv":[2,7,0,7.75],"rotation":0,"texture":"#cdc405e9-9929-1759-7bd1-b03edcd92831","tintindex":0}}},{"name":"cube","from":[8.18,7.4900002,7.88],"to":[9.62,8.389999,12.98],"rotation":{"angle":0,"axis":"x","origin":[7.94,8.09,8]},"faces":{"down":{"uv":[2,5,2.75,7],"rotation":0,"texture":"#cdc405e9-9929-1759-7bd1-b03edcd92831","tintindex":0},"east":{"uv":[2,7,0,7.25],"rotation":0,"texture":"#cdc405e9-9929-1759-7bd1-b03edcd92831","tintindex":0},"north":{"uv":[2.75,7,2,7.25],"rotation":0,"texture":"#cdc405e9-9929-1759-7bd1-b03edcd92831","tintindex":0},"south":{"uv":[5.25,7,4.75,7.25],"rotation":0,"texture":"#cdc405e9-9929-1759-7bd1-b03edcd92831","tintindex":0},"up":{"uv":[2.25,7,2.75,5],"rotation":0,"texture":"#cdc405e9-9929-1759-7bd1-b03edcd92831","tintindex":0},"west":{"uv":[2,7,0,7.75],"rotation":0,"texture":"#cdc405e9-9929-1759-7bd1-b03edcd92831","tintindex":0}}}],"display":{"head":{"translation":[0,-6.4,0],"rotation":[0,0,0],"scale":[3.8095,3.8095,3.8095]},"gui":{"translation":[0,0,0],"rotation":[35,225,0],"scale":[0.625,0.625,0.625]}}}
+{
+  "file_name": "leftshell",
+  "texture_size": [
+    64,
+    64
+  ],
+  "textures": {
+    "cdc405e9-9929-1759-7bd1-b03edcd92831": "modelengine:entity/rhino"
+  },
+  "elements": [
+    {
+      "name": "cube",
+      "from": [
+        7.4900002,
+        6.59,
+        7.88
+      ],
+      "to": [
+        8.18,
+        8.389999,
+        12.98
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "x",
+        "origin": [
+          7.9100003,
+          8.09,
+          8
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            2.5,
+            5,
+            2.75,
+            7
+          ],
+          "rotation": 0,
+          "texture": "#cdc405e9-9929-1759-7bd1-b03edcd92831",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            2,
+            7,
+            0,
+            7.75
+          ],
+          "rotation": 0,
+          "texture": "#cdc405e9-9929-1759-7bd1-b03edcd92831",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            2.125,
+            7,
+            2,
+            7.75
+          ],
+          "rotation": 0,
+          "texture": "#cdc405e9-9929-1759-7bd1-b03edcd92831",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            5.5,
+            7,
+            5.25,
+            7.75
+          ],
+          "rotation": 0,
+          "texture": "#cdc405e9-9929-1759-7bd1-b03edcd92831",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            2,
+            7,
+            2.25,
+            5
+          ],
+          "rotation": 0,
+          "texture": "#cdc405e9-9929-1759-7bd1-b03edcd92831",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            2,
+            7,
+            0,
+            7.75
+          ],
+          "rotation": 0,
+          "texture": "#cdc405e9-9929-1759-7bd1-b03edcd92831",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "cube",
+      "from": [
+        8.18,
+        7.4900002,
+        7.88
+      ],
+      "to": [
+        9.62,
+        8.389999,
+        12.98
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "x",
+        "origin": [
+          7.94,
+          8.09,
+          8
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            2,
+            5,
+            2.75,
+            7
+          ],
+          "rotation": 0,
+          "texture": "#cdc405e9-9929-1759-7bd1-b03edcd92831",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            2,
+            7,
+            0,
+            7.25
+          ],
+          "rotation": 0,
+          "texture": "#cdc405e9-9929-1759-7bd1-b03edcd92831",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            2.75,
+            7,
+            2,
+            7.25
+          ],
+          "rotation": 0,
+          "texture": "#cdc405e9-9929-1759-7bd1-b03edcd92831",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            5.25,
+            7,
+            4.75,
+            7.25
+          ],
+          "rotation": 0,
+          "texture": "#cdc405e9-9929-1759-7bd1-b03edcd92831",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            2.25,
+            7,
+            2.75,
+            5
+          ],
+          "rotation": 0,
+          "texture": "#cdc405e9-9929-1759-7bd1-b03edcd92831",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            2,
+            7,
+            0,
+            7.75
+          ],
+          "rotation": 0,
+          "texture": "#cdc405e9-9929-1759-7bd1-b03edcd92831",
+          "tintindex": 0
+        }
+      }
+    }
+  ],
+  "display": {
+    "head": {
+      "translation": [
+        0,
+        -6.4,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        3.8095,
+        3.8095,
+        3.8095
+      ]
+    },
+    "gui": {
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        35,
+        225,
+        0
+      ],
+      "scale": [
+        0.625,
+        0.625,
+        0.625
+      ]
+    }
+  }
+}

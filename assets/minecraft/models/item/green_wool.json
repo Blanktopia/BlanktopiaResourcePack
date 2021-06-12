@@ -1,1 +1,11 @@
-{"parent":"minecraft:block/green_wool","overrides":[{"predicate":{"custom_model_data":1},"model":"blanktopia:hats/elf"}]}
+{
+  "parent": "minecraft:block/green_wool",
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "blanktopia:hats/elf"
+    }
+  ]
+}

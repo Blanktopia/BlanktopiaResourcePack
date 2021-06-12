@@ -1,1 +1,7 @@
-{"parent":"item/handheld","textures":{"layer0":"blanktopia:food/onigiri","particle":"blanktopia:food/onigiri"}}
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "blanktopia:food/onigiri",
+    "particle": "blanktopia:food/onigiri"
+  }
+}

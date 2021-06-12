@@ -1,1 +1,6 @@
-{"parent":"minecraft:item/generated","textures":{"layer0":"blanktopia:food/fruits/peach"}}
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "blanktopia:food/fruits/peach"
+  }
+}
