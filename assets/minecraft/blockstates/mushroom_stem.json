@@ -1,6 +1,11 @@
 {
   "multipart": [
     {
+      "apply": {
+        "model": "blanktopia:block/default/mushroom_stem_survival_true"
+      }
+    },
+    {
       "when": {
         "down": false,
         "east": false,
