@@ -2,26 +2,17 @@
   "variants": {
     "type=bottom": [
       {
-        "model": "block/petrified_oak_slab"
-      },
-      {
-        "model": "block/petrified_oak_slab2"
+        "model": "block/dirt_slab"
       }
     ],
     "type=top": [
       {
-        "model": "block/petrified_oak_slab_top"
-      },
-      {
-        "model": "block/petrified_oak_slab_top2"
+        "model": "block/dirt_slab_top"
       }
     ],
     "type=double": [
       {
         "model": "block/dirt"
-      },
-      {
-        "model": "block/coarse_dirt"
       }
     ]
   }
