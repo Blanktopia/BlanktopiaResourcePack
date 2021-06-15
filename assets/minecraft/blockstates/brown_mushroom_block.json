@@ -298,6 +298,45 @@
       "apply": {
         "model": "blanktopia:block/stick_block"
       }
+    },
+    {
+      "when": {
+        "down": true,
+        "east": false,
+        "north": true,
+        "south": true,
+        "up": false,
+        "west": false
+      },
+      "apply": {
+        "model": "blanktopia:block/ruby_block"
+      }
+    },
+    {
+      "when": {
+        "down": false,
+        "east": true,
+        "north": true,
+        "south": true,
+        "up": false,
+        "west": false
+      },
+      "apply": {
+        "model": "blanktopia:block/ruby_ore"
+      }
+    },
+    {
+      "when": {
+        "down": true,
+        "east": true,
+        "north": true,
+        "south": true,
+        "up": false,
+        "west": false
+      },
+      "apply": {
+        "model": "blanktopia:block/deepslate_ruby_ore"
+      }
     }
   ]
 }

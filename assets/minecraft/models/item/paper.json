@@ -135,6 +135,24 @@
         "custom_model_data": 1012
       },
       "model": "blanktopia:block/stick_block"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1013
+      },
+      "model": "blanktopia:block/ruby_block"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1014
+      },
+      "model": "blanktopia:block/ruby_ore"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1015
+      },
+      "model": "blanktopia:block/deepslate_ruby_ore"
     }
   ]
 }
