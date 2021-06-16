@@ -1823,6 +1823,29 @@
       "predicate": {
         "custom_model_data": 1067
       }
+    {
+      "predicate": {
+        "custom_model_data": 2000
+      },
+      "model": "blanktopia:hats/straw_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2001
+      },
+      "model": "blanktopia:hats/witch_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2002
+      },
+      "model": "blanktopia:hats/cat_ears"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2003
+      },
+      "model": "blanktopia:cosmetics/cat_tail"
     }
   ],
   "parent": "item/handheld_rod",
