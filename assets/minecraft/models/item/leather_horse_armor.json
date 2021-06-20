@@ -1823,6 +1823,7 @@
       "predicate": {
         "custom_model_data": 1067
       }
+    },
     {
       "predicate": {
         "custom_model_data": 2000
@@ -1846,6 +1847,12 @@
         "custom_model_data": 2003
       },
       "model": "blanktopia:cosmetics/cat_tail"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2004
+      },
+      "model": "blanktopia:cosmetics/groucho_mask"
     }
   ],
   "parent": "item/handheld_rod",
