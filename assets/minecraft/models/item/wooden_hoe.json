@@ -105,6 +105,60 @@
         "custom_model_data": 115
       },
       "model": "blanktopia:instruments/pling"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1000
+      },
+      "model": "blanktopia:rares/lumos"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1001
+      },
+      "model": "blanktopia:rares/paint_brush"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1002
+      },
+      "model": "blanktopia:rares/wrench"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1003
+      },
+      "model": "blanktopia:rares/builders_wand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1004
+      },
+      "model": "minecraft:item/string"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1005
+      },
+      "model": "minecraft:item/popped_chorus_fruit"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1006
+      },
+      "model": "minecraft:item/water_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1007
+      },
+      "model": "minecraft:item/lava_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1008
+      },
+      "model": "minecraft:item/ender_pearl"
     }
   ]
 }
