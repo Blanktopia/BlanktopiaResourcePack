@@ -1,4 +1,31 @@
 {
+  "item.armor.equip_generic": {
+    "sounds": []
+  },
+  "item.armor.equip_chain": {
+    "sounds": []
+  },
+  "item.armor.equip_diamond": {
+    "sounds": []
+  },
+  "item.armor.equip_gold": {
+    "sounds": []
+  },
+  "item.armor.equip_iron": {
+    "sounds": []
+  },
+  "item.armor.equip_leather": {
+    "sounds": []
+  },
+  "item.armor.equip_turtle": {
+    "sounds": []
+  },
+  "item.armor.equip_netherite": {
+    "sounds": []
+  },
+  "item.armor.equip_elytra": {
+    "sounds": []
+  },
   "swamp.capybara_hurt1": {
     "sounds": [
       {
