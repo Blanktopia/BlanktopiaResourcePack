@@ -342,6 +342,45 @@
       "apply": {
         "model": "blanktopia:block/deepslate_ruby_ore"
       }
+    },
+    {
+      "when": {
+        "down": true,
+        "east": false,
+        "north": false,
+        "south": false,
+        "up": true,
+        "west": false
+      },
+      "apply": {
+        "model": "blanktopia:block/sculk_block"
+      }
+    },
+    {
+      "when": {
+        "down": true,
+        "east": true,
+        "north": false,
+        "south": false,
+        "up": true,
+        "west": false
+      },
+      "apply": {
+        "model": "blanktopia:block/sculk_trap"
+      }
+    },
+    {
+      "when": {
+        "down": true,
+        "east": false,
+        "north": true,
+        "south": false,
+        "up": true,
+        "west": false
+      },
+      "apply": {
+        "model": "blanktopia:block/sculk_chute"
+      }
     }
   ]
 }

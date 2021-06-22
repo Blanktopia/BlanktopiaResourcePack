@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "blanktopia:block/sculk_chute_top",
+        "side": "blanktopia:block/sculk_chute_side"
+    }
+}
