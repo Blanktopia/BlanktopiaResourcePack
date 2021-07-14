@@ -1,6 +1,5 @@
 {
   "credit": "Made with Blockbench",
-  "parent": "./cit_item",
   "textures": {
     "0": "block/obsidian",
     "1": "block/white_wool",
