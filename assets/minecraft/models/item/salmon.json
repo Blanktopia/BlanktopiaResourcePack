@@ -1,0 +1,146 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/salmon"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "blanktopia:fish/bluegill"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "blanktopia:fish/brown_trout"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "blanktopia:fish/carp"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "blanktopia:fish/catfish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "blanktopia:fish/gar"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "blanktopia:fish/minnow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "blanktopia:fish/muskellunge"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "blanktopia:fish/perch"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "blanktopia:fish/smallmouth_bass"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "blanktopia:fish/blackfish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "blanktopia:fish/cod"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "blanktopia:fish/halibut"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "blanktopia:fish/herring"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "blanktopia:fish/pink_salmon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "blanktopia:fish/pollock"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "blanktopia:fish/rainbow_trout"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 17
+      },
+      "model": "blanktopia:fish/red_grouper"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18
+      },
+      "model": "blanktopia:fish/tuna"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 19
+      },
+      "model": "blanktopia:fish/bayad"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20
+      },
+      "model": "blanktopia:fish/boulti"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 21
+      },
+      "model": "blanktopia:fish/capitaine"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 22
+      },
+      "model": "blanktopia:fish/synodontis"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23
+      },
+      "model": "blanktopia:fish/angler_fish"
+    }
+  ]
+}
